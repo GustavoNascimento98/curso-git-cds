@@ -1,0 +1,1062 @@
+id,name,selling_price,year,seller_type,owner,km_driven,ex_showroom_price,age,km_class,km_per_year,km_per_month,company
+0,Royal Enfield Classic 350,175000.0,2019,Individual,1st owner,350,,3,1,116.667,9.722,Royal Enfield
+1,Honda Dio,45000.0,2017,Individual,1st owner,5650,,5,2,1130.0,94.167,Honda
+2,Royal Enfield Classic Gunmetal Grey,150000.0,2018,Individual,1st owner,12000,148114.0,4,3,3000.0,250.0,Royal Enfield
+3,Yamaha Fazer FI V 2.0 [2016-2018],65000.0,2015,Individual,1st owner,23000,89643.0,7,5,3285.714,273.81,Yamaha
+4,Yamaha SZ [2013-2014],20000.0,2011,Individual,2nd owner,21000,,11,5,1909.091,159.091,Yamaha
+5,Honda CB Twister,18000.0,2010,Individual,1st owner,60000,53857.0,12,12,5000.0,416.667,Honda
+6,Honda CB Hornet 160R,78500.0,2018,Individual,1st owner,17000,87719.0,4,4,4250.0,354.167,Honda
+7,Royal Enfield Bullet 350 [2007-2011],180000.0,2008,Individual,2nd owner,39000,,14,8,2785.714,232.143,Royal Enfield
+8,Hero Honda CBZ extreme,30000.0,2010,Individual,1st owner,32000,,12,7,2666.667,222.222,Hero Honda
+9,Bajaj Discover 125,50000.0,2016,Individual,1st owner,42000,60122.0,6,9,7000.0,583.333,Bajaj
+10,Yamaha FZ16,35000.0,2015,Individual,1st owner,32000,78712.0,7,7,4571.429,380.952,Yamaha
+11,Honda Navi,28000.0,2016,Individual,2nd owner,10000,47255.0,6,2,1666.667,138.889,Honda
+12,Bajaj Avenger Street 220,80000.0,2018,Individual,1st owner,21178,95955.0,4,5,5294.5,441.208,Bajaj
+13,Yamaha YZF R3,365000.0,2019,Individual,1st owner,1127,351680.0,3,1,375.667,31.306,Yamaha
+14,Jawa 42,185000.0,2020,Individual,1st owner,1700,,2,1,850.0,70.833,Jawa
+15,Suzuki Access 125 [2007-2016],25000.0,2012,Individual,1st owner,55000,58314.0,10,11,5500.0,458.333,Suzuki
+16,Hero Honda Glamour,25000.0,2006,Individual,1st owner,27000,,16,6,1687.5,140.625,Hero Honda
+17,Yamaha YZF R15 S,40000.0,2010,Individual,2nd owner,45000,117926.0,12,9,3750.0,312.5,Yamaha
+18,Royal Enfield Classic Gunmetal Grey,150000.0,2018,Individual,1st owner,23000,148114.0,4,5,5750.0,479.167,Royal Enfield
+19,Yamaha FZ25,120000.0,2018,Individual,1st owner,39000,132680.0,4,8,9750.0,812.5,Yamaha
+20,Hero Passion Pro 110,15000.0,2008,Individual,1st owner,60000,,14,12,4285.714,357.143,Hero
+21,Honda Navi [2016-2017],26000.0,2016,Individual,1st owner,17450,44389.0,6,4,2908.333,242.361,Honda
+22,Honda Activa i,32000.0,2013,Individual,2nd owner,20696,53900.0,9,5,2299.556,191.63,Honda
+23,Jawa Standard,180000.0,2019,Individual,1st owner,2000,,3,1,666.667,55.556,Jawa
+24,Royal Enfield Thunderbird 350,110000.0,2016,Individual,1st owner,20000,,6,4,3333.333,277.778,Royal Enfield
+25,Honda Dream Yuga,25000.0,2012,Individual,1st owner,35000,56147.0,10,7,3500.0,291.667,Honda
+26,TVS Apache RTR 160 4V,80000.0,2018,Individual,1st owner,15210,,4,4,3802.5,316.875,TVS
+27,Honda Navi [2016-2017],42000.0,2017,Individual,1st owner,24000,44389.0,5,5,4800.0,400.0,Honda
+28,Yamaha Fazer [2009-2016],40000.0,2013,Individual,3rd owner,35000,84751.0,9,7,3888.889,324.074,Yamaha
+29,Hero Honda Splendor NXG,21000.0,2009,Individual,1st owner,10000,,13,2,769.231,64.103,Hero Honda
+30,Hero Glamour 125,55000.0,2017,Individual,1st owner,2500,61600.0,5,1,500.0,41.667,Hero
+31,Yamaha FZ S [2012-2016],38000.0,2013,Individual,1st owner,75000,79432.0,9,15,8333.333,694.444,Yamaha
+32,Hero Xtreme Sports,43000.0,2016,Individual,2nd owner,50000,78350.0,6,10,8333.333,694.444,Hero
+33,Honda X-Blade,65000.0,2018,Individual,1st owner,27000,,4,6,6750.0,562.5,Honda
+34,Honda CB Shine SP,62000.0,2019,Individual,1st owner,10000,71049.0,3,2,3333.333,277.778,Honda
+35,Honda Activa 5G,60000.0,2018,Individual,1st owner,6502,57557.0,4,2,1625.5,135.458,Honda
+36,Hero Glamour 125,45000.0,2018,Individual,1st owner,21000,61600.0,4,5,5250.0,437.5,Hero
+37,Honda CBR-250R,120000.0,2016,Individual,1st owner,16000,202310.0,6,4,2666.667,222.222,Honda
+38,Hero Honda Passion PRO [2012],30000.0,2011,Individual,1st owner,42000,,11,9,3818.182,318.182,Hero Honda
+39,Royal Enfield Thunderbird 350,90000.0,2015,Individual,3rd owner,13000,,7,3,1857.143,154.762,Royal Enfield
+40,Bajaj Dominar 400,125000.0,2017,Individual,1st owner,12800,,5,3,2560.0,213.333,Bajaj
+41,Hero Glamour FI,50000.0,2018,Individual,1st owner,20000,71150.0,4,4,5000.0,416.667,Hero
+42,KTM 390 Duke,175000.0,2017,Individual,1st owner,4600,,5,1,920.0,76.667,KTM
+43,Hero Passion XPro,28000.0,2012,Individual,1st owner,81000,56750.0,10,17,8100.0,675.0,Hero
+44,Yamaha FZ S V 2.0,85000.0,2018,Individual,1st owner,8000,84042.0,4,2,2000.0,166.667,Yamaha
+45,Hero Achiever 150,29900.0,2016,Individual,1st owner,55000,69750.0,6,11,9166.667,763.889,Hero
+46,Bajaj Discover 125,25000.0,2011,Individual,1st owner,57000,60122.0,11,12,5181.818,431.818,Bajaj
+47,Yamaha FZ16,30000.0,2009,Individual,2nd owner,26000,78712.0,13,6,2000.0,166.667,Yamaha
+48,Yamaha Saluto,60000.0,2018,Individual,1st owner,13000,59844.0,4,3,3250.0,270.833,Yamaha
+49,Yamaha FZ16,35000.0,2012,Individual,2nd owner,29000,78712.0,10,6,2900.0,241.667,Yamaha
+50,Bajaj Discover 100,25000.0,2010,Individual,1st owner,43000,42859.0,12,9,3583.333,298.611,Bajaj
+51,Honda CB Trigger,30000.0,2015,Individual,1st owner,40000,73413.0,7,8,5714.286,476.19,Honda
+52,Royal Enfield Electra 5 S,90000.0,2010,Individual,2nd owner,40000,,12,8,3333.333,277.778,Royal Enfield
+53,Hero Splendor PRO,35000.0,2015,Individual,2nd owner,24000,49900.0,7,5,3428.571,285.714,Hero
+54,Honda Activa 5G,70000.0,2019,Individual,1st owner,3000,59422.0,3,1,1000.0,83.333,Honda
+55,Hero Honda Passion Plus,25000.0,2006,Individual,1st owner,75000,,16,15,4687.5,390.625,Hero Honda
+56,Bajaj Pulsar 150,25000.0,2010,Individual,1st owner,42000,,12,9,3500.0,291.667,Bajaj
+57,Royal Enfield Bullet 350,90000.0,2014,Individual,1st owner,13000,,8,3,1625.0,135.417,Royal Enfield
+58,Bajaj Discover 125,25000.0,2013,Individual,1st owner,55000,57549.0,9,11,6111.111,509.259,Bajaj
+59,Bajaj Pulsar 150 [2001-2011],42000.0,2011,Individual,1st owner,23000,,11,5,2090.909,174.242,Bajaj
+60,Hero Splendor PRO,35000.0,2015,Individual,2nd owner,24000,51994.0,7,5,3428.571,285.714,Hero
+61,Hero Xtreme Sports,50000.0,2014,Individual,1st owner,80000,80350.0,8,16,10000.0,833.333,Hero
+62,Honda Activa 3G,30000.0,2015,Individual,1st owner,39000,54605.0,7,8,5571.429,464.286,Honda
+63,Yamaha FZ16,48000.0,2016,Individual,1st owner,20000,78712.0,6,4,3333.333,277.778,Yamaha
+64,Honda CB Hornet 160R,65000.0,2016,Individual,1st owner,30000,88161.0,6,6,5000.0,416.667,Honda
+65,Royal Enfield Thunderbird 350,85000.0,2013,Individual,1st owner,21000,,9,5,2333.333,194.444,Royal Enfield
+66,Hero Hunk,45000.0,2014,Individual,1st owner,41000,78513.0,8,9,5125.0,427.083,Hero
+67,Suzuki Let''s,34000.0,2014,Individual,1st owner,8000,50098.0,8,2,1000.0,83.333,Suzuki
+68,Royal Enfield Electra 4 S,90000.0,2008,Individual,1st owner,50000,,14,10,3571.429,297.619,Royal Enfield
+69,TVS Scooty Pep Plus,35000.0,2012,Individual,1st owner,8150,,10,2,815.0,67.917,TVS
+70,Mahindra Mojo XT300,165000.0,2017,Individual,1st owner,1933,195500.0,5,1,386.6,32.217,Mahindra
+71,TVS Apache RTR 160,35000.0,2013,Individual,1st owner,55750,,9,12,6194.444,516.204,TVS
+72,Bajaj Pulsar AS200,65000.0,2015,Individual,1st owner,15856,92074.0,7,4,2265.143,188.762,Bajaj
+73,Bajaj Pulsar 150,29500.0,2013,Individual,1st owner,27000,,9,6,3000.0,250.0,Bajaj
+74,Royal Enfield Thunderbird 350X,165000.0,2019,Individual,1st owner,3700,164004.0,3,1,1233.333,102.778,Royal Enfield
+75,Suzuki Intruder 150,95000.0,2018,Individual,1st owner,21938,,4,5,5484.5,457.042,Suzuki
+76,Hero Honda Karizma ZMR [2010],50000.0,2010,Individual,1st owner,48000,,12,10,4000.0,333.333,Hero Honda
+77,Honda Dio,7500.0,2009,Individual,2nd owner,16000,,13,4,1230.769,102.564,Honda
+78,Bajaj Xcd,25000.0,2008,Individual,1st owner,54000,,14,11,3857.143,321.429,Bajaj
+79,Hero Splendor Plus,35000.0,2014,Individual,2nd owner,35000,,8,7,4375.0,364.583,Hero
+80,Royal Enfield Thunderbird 350X,160000.0,2018,Individual,1st owner,15000,,4,3,3750.0,312.5,Royal Enfield
+81,Honda CB Unicorn 150,50000.0,2014,Individual,1st owner,32000,74295.0,8,7,4000.0,333.333,Honda
+82,Honda Activa 5G,62000.0,2019,Individual,1st owner,3500,57557.0,3,1,1166.667,97.222,Honda
+83,Honda CB Twister,30000.0,2013,Individual,1st owner,9000,53857.0,9,2,1000.0,83.333,Honda
+84,Hero Splendor PRO,28000.0,2015,Individual,1st owner,38000,49642.0,7,8,5428.571,452.381,Hero
+85,Hero Honda CD Deluxe,25000.0,2009,Individual,1st owner,50000,,13,10,3846.154,320.513,Hero Honda
+86,Honda Activa i [2016-2017],30000.0,2015,Individual,2nd owner,20000,51112.0,7,4,2857.143,238.095,Honda
+87,Royal Enfield Classic Gunmetal Grey,140000.0,2018,Individual,1st owner,22000,148114.0,4,5,5500.0,458.333,Royal Enfield
+88,TVS Scooty Zest 110,30000.0,2017,Individual,1st owner,9432,53751.0,5,2,1886.4,157.2,TVS
+89,Hero CD Deluxe,25000.0,2014,Individual,1st owner,70000,,8,14,8750.0,729.167,Hero
+90,Suzuki Access 125 [2007-2016],22000.0,2010,Individual,2nd owner,43000,58314.0,12,9,3583.333,298.611,Suzuki
+91,Honda Activa [2000-2015],22989.0,2012,Individual,1st owner,500000,50267.0,10,100,50000.0,4166.667,Honda
+92,Honda Activa 125 [2016-2017],42000.0,2016,Individual,1st owner,30514,61653.0,6,7,5085.667,423.806,Honda
+93,Suzuki GS150R,30000.0,2010,Individual,1st owner,130000,70851.0,12,26,10833.333,902.778,Suzuki
+94,Bajaj Pulsar 220S,55000.0,2015,Individual,1st owner,45000,,7,9,6428.571,535.714,Bajaj
+95,Honda Activa 4G,45000.0,2018,Individual,1st owner,25000,53079.0,4,5,6250.0,520.833,Honda
+96,Yamaha FZ25,150000.0,2019,Individual,1st owner,2500,133680.0,3,1,833.333,69.444,Yamaha
+97,Bajaj Pulsar 150,42000.0,2015,Individual,1st owner,22770,,7,5,3252.857,271.071,Bajaj
+98,Hero Splendor Plus,30000.0,2015,Individual,1st owner,30000,,7,6,4285.714,357.143,Hero
+99,Bajaj Discover 100,24999.0,2012,Individual,2nd owner,35000,42859.0,10,7,3500.0,291.667,Bajaj
+100,Royal Enfield Thunderbird 350X,160000.0,2019,Individual,1st owner,6330,,3,2,2110.0,175.833,Royal Enfield
+101,Royal Enfield Classic 350,175000.0,2020,Individual,1st owner,500,,2,1,250.0,20.833,Royal Enfield
+102,Bajaj Pulsar 150,40000.0,2013,Individual,1st owner,43400,,9,9,4822.222,401.852,Bajaj
+103,Bajaj Pulsar NS160,85000.0,2018,Individual,1st owner,7004,,4,2,1751.0,145.917,Bajaj
+104,Royal Enfield Classic Desert Storm,150000.0,2017,Individual,1st owner,16500,181445.0,5,4,3300.0,275.0,Royal Enfield
+105,Suzuki Gixxer SF,80000.0,2018,Individual,1st owner,12500,,4,3,3125.0,260.417,Suzuki
+106,TVS Apache RTR 200 4V,95000.0,2018,Individual,1st owner,9600,,4,2,2400.0,200.0,TVS
+107,Bajaj V15,42000.0,2016,Individual,1st owner,35000,65626.0,6,7,5833.333,486.111,Bajaj
+108,TVS XL 100 Heavy Duty,40000.0,2019,Individual,1st owner,11000,,3,3,3666.667,305.556,TVS
+109,Yamaha FZ S V 2.0,50000.0,2015,Individual,1st owner,20000,84042.0,7,4,2857.143,238.095,Yamaha
+110,Hero HF Deluxe,40000.0,2018,Individual,1st owner,13000,,4,3,3250.0,270.833,Hero
+111,Aprilia SR 125,75000.0,2019,Individual,1st owner,3500,,3,1,1166.667,97.222,Aprilia
+112,Yamaha FZ25,120000.0,2017,Individual,1st owner,9000,132680.0,5,2,1800.0,150.0,Yamaha
+113,Hero Honda Glamour,30000.0,2008,Individual,1st owner,7500,,14,2,535.714,44.643,Hero Honda
+114,Bajaj Discover 125 ST,17500.0,2013,Individual,1st owner,38000,58438.0,9,8,4222.222,351.852,Bajaj
+115,Hero Honda Passion Plus,7500.0,2004,Individual,1st owner,120000,,18,24,6666.667,555.556,Hero Honda
+116,Honda Aviator,57000.0,2018,Individual,1st owner,6465,61118.0,4,2,1616.25,134.688,Honda
+117,Vespa SXL 149,80000.0,2018,Individual,1st owner,18803,,4,4,4700.75,391.729,Vespa
+118,TVS Scooty Pep Plus,18000.0,2010,Individual,1st owner,20000,,12,4,1666.667,138.889,TVS
+119,Hero Xtreme [2013-2014],25000.0,2013,Individual,1st owner,24000,75936.0,9,5,2666.667,222.222,Hero
+120,Royal Enfield Thunderbird 350,83900.0,2014,Individual,2nd owner,22000,,8,5,2750.0,229.167,Royal Enfield
+121,UM Renegade Commando,160000.0,2018,Individual,1st owner,7000,180525.0,4,2,1750.0,145.833,UM
+122,Royal Enfield Classic Gunmetal Grey,135000.0,2018,Individual,1st owner,6100,148114.0,4,2,1525.0,127.083,Royal Enfield
+123,Honda CB Hornet 160R,55000.0,2017,Individual,1st owner,14000,87543.0,5,3,2800.0,233.333,Honda
+124,Honda Shine,50000.0,2017,Individual,1st owner,23000,,5,5,4600.0,383.333,Honda
+125,Bajaj Discover 100,20000.0,2012,Individual,1st owner,85000,42859.0,10,17,8500.0,708.333,Bajaj
+126,Hero Honda CBZ extreme,25000.0,2010,Individual,1st owner,40000,,12,8,3333.333,277.778,Hero Honda
+127,Royal Enfield Classic 350,125000.0,2017,Individual,1st owner,18000,,5,4,3600.0,300.0,Royal Enfield
+128,Honda Activa 5G,55000.0,2019,Individual,1st owner,10000,57557.0,3,2,3333.333,277.778,Honda
+129,Bajaj Avenger Street 150 [2018],50000.0,2016,Individual,1st owner,40000,80435.0,6,8,6666.667,555.556,Bajaj
+130,Royal Enfield Continental GT 650,299000.0,2019,Individual,1st owner,1500,,3,1,500.0,41.667,Royal Enfield
+131,Honda Activa 3G,60000.0,2015,Individual,1st owner,30000,54605.0,7,6,4285.714,357.143,Honda
+132,Honda Activa 3G,40000.0,2015,Individual,1st owner,3000,54605.0,7,1,428.571,35.714,Honda
+133,Bajaj Pulsar 180,15000.0,2008,Individual,1st owner,55000,85011.0,14,11,3928.571,327.381,Bajaj
+134,Harley-Davidson Street Bob,750000.0,2013,Individual,2nd owner,12000,1278000.0,9,3,1333.333,111.111,Harley-Davidson
+135,Hero Honda CBZ extreme,20000.0,2007,Individual,1st owner,90000,,15,18,6000.0,500.0,Hero Honda
+136,Royal Enfield Classic Gunmetal Grey,190000.0,2020,Individual,1st owner,500,155740.0,2,1,250.0,20.833,Royal Enfield
+137,KTM 390 Duke ABS [2013-2016],130000.0,2015,Individual,1st owner,50000,202127.0,7,10,7142.857,595.238,KTM
+138,Honda CB Hornet 160R,54786.0,2016,Individual,1st owner,25000,88161.0,6,5,4166.667,347.222,Honda
+139,KTM 200 Duke,72000.0,2013,Individual,1st owner,36500,,9,8,4055.556,337.963,KTM
+140,Hero Karizma 2014,35000.0,2013,Individual,1st owner,26000,86744.0,9,6,2888.889,240.741,Hero
+141,Hero Glamour 125,45000.0,2017,Individual,1st owner,18000,61600.0,5,4,3600.0,300.0,Hero
+142,Royal Enfield Classic 350,85000.0,2013,Individual,1st owner,49000,,9,10,5444.444,453.704,Royal Enfield
+143,Royal Enfield Classic 500,100000.0,2013,Individual,1st owner,18000,156304.0,9,4,2000.0,166.667,Royal Enfield
+144,Bajaj Dominar 400,138000.0,2017,Individual,1st owner,15000,,5,3,3000.0,250.0,Bajaj
+145,Royal Enfield Thunderbird 350X,150000.0,2018,Individual,1st owner,8500,,4,2,2125.0,177.083,Royal Enfield
+146,KTM RC 390,180000.0,2017,Individual,1st owner,3775,,5,1,755.0,62.917,KTM
+147,Royal Enfield Thunderbird 350,100000.0,2015,Individual,1st owner,14500,,7,3,2071.429,172.619,Royal Enfield
+148,Hero Hunk,20000.0,2010,Individual,1st owner,35000,78513.0,12,7,2916.667,243.056,Hero
+149,KTM 390 Duke,170000.0,2017,Individual,1st owner,14000,,5,3,2800.0,233.333,KTM
+150,Suzuki Gixxer [2014-2018],60000.0,2016,Individual,1st owner,16000,84246.0,6,4,2666.667,222.222,Suzuki
+151,Royal Enfield Bullet 350,123000.0,2016,Individual,1st owner,7000,,6,2,1166.667,97.222,Royal Enfield
+152,Suzuki Access 125,60000.0,2017,Individual,1st owner,4000,,5,1,800.0,66.667,Suzuki
+153,TVS Apache RTR 200 4V,100000.0,2017,Individual,1st owner,45000,,5,9,9000.0,750.0,TVS
+154,Hero Xtreme Sports,22000.0,2014,Individual,1st owner,99000,78350.0,8,20,12375.0,1031.25,Hero
+155,Honda Activa [2000-2015],30000.0,2014,Individual,1st owner,52000,50267.0,8,11,6500.0,541.667,Honda
+156,Bajaj Discover 125,28000.0,2013,Individual,1st owner,45000,60122.0,9,9,5000.0,416.667,Bajaj
+157,Bajaj Pulsar 150,50000.0,2007,Individual,1st owner,52000,,15,11,3466.667,288.889,Bajaj
+158,Yamaha Saluto RX,40000.0,2017,Individual,1st owner,27000,49521.0,5,6,5400.0,450.0,Yamaha
+159,Hero HF Deluxe,43000.0,2018,Individual,1st owner,60000,,4,12,15000.0,1250.0,Hero
+160,Suzuki Access 125,40000.0,2015,Individual,1st owner,2300,,7,1,328.571,27.381,Suzuki
+161,Royal Enfield Classic Desert Storm,100000.0,2012,Individual,1st owner,15000,181445.0,10,3,1500.0,125.0,Royal Enfield
+162,Hero HF Deluxe,30000.0,2016,Individual,1st owner,50000,,6,10,8333.333,694.444,Hero
+163,KTM RC 200,130000.0,2017,Individual,1st owner,27000,,5,6,5400.0,450.0,KTM
+164,Honda CB Hornet 160R,48000.0,2016,Individual,2nd owner,25000,88161.0,6,5,4166.667,347.222,Honda
+165,Bajaj CT 100,32000.0,2017,Individual,1st owner,40000,,5,8,8000.0,666.667,Bajaj
+166,Hero Honda Pleasure,23000.0,2010,Individual,1st owner,32000,,12,7,2666.667,222.222,Hero Honda
+167,Bajaj Pulsar 135 LS,20000.0,2010,Individual,2nd owner,50000,64589.0,12,10,4166.667,347.222,Bajaj
+168,Royal Enfield Classic 350,125000.0,2017,Individual,1st owner,36000,,5,8,7200.0,600.0,Royal Enfield
+169,Honda Navi [2016-2017],23000.0,2016,Individual,1st owner,17450,44389.0,6,4,2908.333,242.361,Honda
+170,Bajaj Discover 125,15000.0,2011,Individual,1st owner,32000,57549.0,11,7,2909.091,242.424,Bajaj
+171,Yamaha SZ RR V 2.0,35000.0,2015,Individual,1st owner,38000,69983.0,7,8,5428.571,452.381,Yamaha
+172,Bajaj Discover 150,25000.0,2014,Individual,2nd owner,71000,54299.0,8,15,8875.0,739.583,Bajaj
+173,Bajaj Pulsar 150,80000.0,2019,Individual,1st owner,8000,,3,2,2666.667,222.222,Bajaj
+174,TVS Flame,15000.0,2010,Individual,1st owner,12000,,12,3,1000.0,83.333,TVS
+175,Vespa VX 125,45000.0,2013,Individual,2nd owner,50000,72303.0,9,10,5555.556,462.963,Vespa
+176,Yamaha SZ X,25000.0,2012,Individual,2nd owner,30000,65800.0,10,6,3000.0,250.0,Yamaha
+177,Honda CBF Stunner,35000.0,2013,Individual,1st owner,15888,58757.0,9,4,1765.333,147.111,Honda
+178,Bajaj Discover 100 T,25000.0,2013,Individual,1st owner,26000,47032.0,9,6,2888.889,240.741,Bajaj
+179,Royal Enfield Classic 350,170000.0,2018,Individual,1st owner,5600,,4,2,1400.0,116.667,Royal Enfield
+180,Honda Activa [2000-2015],25000.0,2014,Individual,1st owner,41000,50267.0,8,9,5125.0,427.083,Honda
+181,Royal Enfield Electra 5 S,60000.0,2007,Individual,2nd owner,19612,,15,4,1307.467,108.956,Royal Enfield
+182,Bajaj Pulsar 150,41000.0,2012,Individual,1st owner,17000,,10,4,1700.0,141.667,Bajaj
+183,Honda Shine,35000.0,2012,Individual,1st owner,33700,,10,7,3370.0,280.833,Honda
+184,Honda CB Unicorn 160,75000.0,2015,Individual,1st owner,100000,79233.0,7,20,14285.714,1190.476,Honda
+185,Honda Activa 3G,47999.0,2016,Individual,1st owner,6000,54605.0,6,2,1000.0,83.333,Honda
+186,Honda Shine,36999.0,2011,Individual,1st owner,21000,,11,5,1909.091,159.091,Honda
+187,Bajaj Pulsar 180,25000.0,2007,Individual,1st owner,80000,85011.0,15,16,5333.333,444.444,Bajaj
+188,Suzuki Gixxer SF,60000.0,2016,Individual,1st owner,15000,,6,3,2500.0,208.333,Suzuki
+189,Honda CB Unicorn 150,50000.0,2007,Individual,1st owner,46000,74295.0,15,10,3066.667,255.556,Honda
+190,Yamaha YZF R15 [2011-2018],65000.0,2013,Individual,1st owner,11000,118997.0,9,3,1222.222,101.852,Yamaha
+191,TVS Sport,12000.0,2007,Individual,1st owner,72000,,15,15,4800.0,400.0,TVS
+192,Bajaj Pulsar AS200,60000.0,2015,Individual,1st owner,50000,92074.0,7,10,7142.857,595.238,Bajaj
+193,Honda Activa [2000-2015],20000.0,2010,Individual,1st owner,50000,50267.0,12,10,4166.667,347.222,Honda
+194,Yamaha FZ16,27000.0,2011,Individual,1st owner,67000,78712.0,11,14,6090.909,507.576,Yamaha
+195,Bajaj Boxer,10000.0,2000,Individual,1st owner,30000,,22,6,1363.636,113.636,Bajaj
+196,Hero Honda Hunk,56000.0,2015,Individual,1st owner,48000,,7,10,6857.143,571.429,Hero Honda
+197,Hero Honda Hunk,58000.0,2015,Individual,1st owner,48000,,7,10,6857.143,571.429,Hero Honda
+198,Bajaj Avenger Cruise 220,87000.0,2018,Individual,1st owner,8000,,4,2,2000.0,166.667,Bajaj
+199,Yamaha Ray Z,35000.0,2015,Individual,1st owner,15500,52949.0,7,4,2214.286,184.524,Yamaha
+200,Bajaj Pulsar 180,35000.0,2012,Individual,1st owner,45000,85011.0,10,9,4500.0,375.0,Bajaj
+201,Bajaj Discover 150F,40000.0,2014,Individual,2nd owner,60855,64071.0,8,13,7606.875,633.906,Bajaj
+202,Bajaj Pulsar 135 LS,56000.0,2017,Individual,3rd owner,37714,64589.0,5,8,7542.8,628.567,Bajaj
+203,Bajaj Pulsar 180,30000.0,2008,Individual,2nd owner,60000,85011.0,14,12,4285.714,357.143,Bajaj
+204,Honda Activa 125 [2016-2017],40000.0,2017,Individual,1st owner,26000,61545.0,5,6,5200.0,433.333,Honda
+205,Hero HF Deluxe,60000.0,2019,Individual,1st owner,6000,,3,2,2000.0,166.667,Hero
+206,Hero Karizma 2014,40000.0,2013,Individual,1st owner,30000,86744.0,9,6,3333.333,277.778,Hero
+207,Bajaj Platina 100,40000.0,2018,Individual,1st owner,17000,,4,4,4250.0,354.167,Bajaj
+208,Royal Enfield Bullet 500,130000.0,2015,Individual,1st owner,34601,168482.0,7,7,4943.0,411.917,Royal Enfield
+209,Bajaj Pulsar AS200,45000.0,2015,Individual,1st owner,48000,92074.0,7,10,6857.143,571.429,Bajaj
+210,Yamaha FZ S [2012-2016],42000.0,2013,Individual,1st owner,60000,79432.0,9,12,6666.667,555.556,Yamaha
+211,Bajaj Pulsar 220 Fi,25000.0,2012,Individual,1st owner,44000,,10,9,4400.0,366.667,Bajaj
+212,Bajaj Pulsar 150,15000.0,2006,Individual,1st owner,55000,,16,11,3437.5,286.458,Bajaj
+213,Bajaj Dominar 400 [2018],170000.0,2018,Individual,1st owner,16000,163331.0,4,4,4000.0,333.333,Bajaj
+214,Hero Passion X Pro [2016-2017],38000.0,2016,Individual,2nd owner,20000,59095.0,6,4,3333.333,277.778,Hero
+215,Yamaha FZ S V 2.0,60000.0,2015,Individual,2nd owner,17500,84042.0,7,4,2500.0,208.333,Yamaha
+216,TVS Apache RTR 160,65000.0,2017,Individual,1st owner,46000,,5,10,9200.0,766.667,TVS
+217,Bajaj Avenger [2015],35000.0,2011,Individual,1st owner,30000,75502.0,11,6,2727.273,227.273,Bajaj
+218,Bajaj Pulsar 150,70000.0,2019,Individual,1st owner,6500,,3,2,2166.667,180.556,Bajaj
+219,Hero Honda Glamour,15000.0,2006,Individual,1st owner,80000,,16,16,5000.0,416.667,Hero Honda
+220,Hero Splendor iSmart,50000.0,2017,Individual,2nd owner,10000,52271.0,5,2,2000.0,166.667,Hero
+221,Royal Enfield Classic 350,145000.0,2017,Individual,1st owner,2200,,5,1,440.0,36.667,Royal Enfield
+222,Yamaha FZ16,25000.0,2008,Individual,1st owner,40000,78712.0,14,8,2857.143,238.095,Yamaha
+223,Hero Xtreme Sports,58000.0,2016,Individual,1st owner,21000,80350.0,6,5,3500.0,291.667,Hero
+224,Royal Enfield Bullet 350 [2007-2011],90000.0,2007,Individual,1st owner,3500,,15,1,233.333,19.444,Royal Enfield
+225,Hero Honda Passion,9000.0,2002,Individual,2nd owner,66191,,20,14,3309.55,275.796,Hero Honda
+226,Bajaj Discover 150S,40000.0,2014,Individual,1st owner,50000,63331.0,8,10,6250.0,520.833,Bajaj
+227,TVS Scooty Zest 110,28000.0,2015,Individual,1st owner,32800,52372.0,7,7,4685.714,390.476,TVS
+228,Bajaj Avenger Street 150 [2018],50000.0,2016,Individual,1st owner,32000,80435.0,6,7,5333.333,444.444,Bajaj
+229,Yamaha Cygnus Ray ZR,56000.0,2019,Individual,1st owner,3900,58630.0,3,1,1300.0,108.333,Yamaha
+230,Honda Activa [2000-2015],35000.0,2014,Individual,1st owner,10000,50267.0,8,2,1250.0,104.167,Honda
+231,TVS Apache RTR 200 4V,95000.0,2018,Individual,1st owner,9600,,4,2,2400.0,200.0,TVS
+232,Honda Shine,30000.0,2010,Individual,1st owner,46782,,12,10,3898.5,324.875,Honda
+233,Honda CB Hornet 160R,95000.0,2019,Individual,1st owner,8000,94703.0,3,2,2666.667,222.222,Honda
+234,Honda Activa i [2016-2017],40000.0,2017,Individual,1st owner,11000,53436.0,5,3,2200.0,183.333,Honda
+235,Hero Karizma 2014,30000.0,2014,Individual,2nd owner,51000,86744.0,8,11,6375.0,531.25,Hero
+236,Bajaj Discover 100 T,18000.0,2013,Individual,1st owner,45000,47032.0,9,9,5000.0,416.667,Bajaj
+237,Honda Aviator,14000.0,2008,Individual,1st owner,66000,59183.0,14,14,4714.286,392.857,Honda
+238,Hero Splendor Plus,17000.0,2010,Individual,2nd owner,50000,,12,10,4166.667,347.222,Hero
+239,Royal Enfield Thunderbird 350,125000.0,2017,Individual,1st owner,23500,,5,5,4700.0,391.667,Royal Enfield
+240,Bajaj CT 110,20000.0,2015,Individual,1st owner,25000,,7,5,3571.429,297.619,Bajaj
+241,Hero Passion PRO i3s,50000.0,2017,Individual,1st owner,41000,56925.0,5,9,8200.0,683.333,Hero
+242,KTM RC 390,210000.0,2017,Individual,1st owner,12000,,5,3,2400.0,200.0,KTM
+243,Bajaj Pulsar 220F,70000.0,2018,Individual,1st owner,33000,,4,7,8250.0,687.5,Bajaj
+244,Hero Maestro Edge,40000.0,2017,Individual,1st owner,15000,55980.0,5,3,3000.0,250.0,Hero
+245,Bajaj Xcd,10000.0,2008,Individual,1st owner,50000,,14,10,3571.429,297.619,Bajaj
+246,Bajaj Pulsar 150,35000.0,2010,Individual,1st owner,40000,,12,8,3333.333,277.778,Bajaj
+247,TVS Centra,10000.0,2005,Individual,1st owner,50000,,17,10,2941.176,245.098,TVS
+248,Honda Activa 3G,42000.0,2015,Individual,1st owner,20000,54605.0,7,4,2857.143,238.095,Honda
+249,Yamaha FZ16,20000.0,2009,Individual,1st owner,50000,78712.0,13,10,3846.154,320.513,Yamaha
+250,Hero Maestro Edge,25000.0,2017,Individual,1st owner,55000,52790.0,5,11,11000.0,916.667,Hero
+251,Bajaj Discover 125,25000.0,2016,Individual,1st owner,70350,60122.0,6,15,11725.0,977.083,Bajaj
+252,Royal Enfield Thunderbird 350X,145000.0,2019,Individual,1st owner,2700,164004.0,3,1,900.0,75.0,Royal Enfield
+253,Hero Super Splendor,50000.0,2016,Individual,1st owner,20000,,6,4,3333.333,277.778,Hero
+254,TVS Scooty Pep Plus,30000.0,2011,Individual,1st owner,20000,,11,4,1818.182,151.515,TVS
+255,Yamaha FZ V 2.0,60000.0,2014,Individual,1st owner,41311,81508.0,8,9,5163.875,430.323,Yamaha
+256,Hero Honda Splendor Plus,15000.0,2005,Individual,1st owner,65000,,17,13,3823.529,318.627,Hero Honda
+257,Hero CD Deluxe,15000.0,2014,Individual,2nd owner,34000,,8,7,4250.0,354.167,Hero
+258,Hero Honda Passion PRO [2012],25000.0,2011,Individual,1st owner,20000,,11,4,1818.182,151.515,Hero Honda
+259,Hero HF Deluxe i3s,54000.0,2019,Individual,1st owner,11000,,3,3,3666.667,305.556,Hero
+260,Bajaj Xcd,25000.0,2007,Individual,1st owner,75000,,15,15,5000.0,416.667,Bajaj
+261,Royal Enfield Interceptor 650,260000.0,2019,Individual,1st owner,1200,,3,1,400.0,33.333,Royal Enfield
+262,Honda CBR-250R,100000.0,2014,Individual,1st owner,19000,199275.0,8,4,2375.0,197.917,Honda
+263,Bajaj Kristal,15000.0,2007,Individual,1st owner,30000,,15,6,2000.0,166.667,Bajaj
+264,Hero Honda Splendor Plus,20000.0,2006,Individual,1st owner,23000,,16,5,1437.5,119.792,Hero Honda
+265,Honda Dream Yuga,35000.0,2014,Individual,1st owner,10000,56147.0,8,2,1250.0,104.167,Honda
+266,Yamaha FZ S V 2.0,50000.0,2016,Individual,1st owner,40000,87042.0,6,8,6666.667,555.556,Yamaha
+267,Hero Xpulse 200,90000.0,2019,Individual,1st owner,8600,107500.0,3,2,2866.667,238.889,Hero
+268,Bajaj V15,40000.0,2016,Individual,1st owner,45000,67187.0,6,9,7500.0,625.0,Bajaj
+269,Bajaj Avenger Street 220,80000.0,2016,Individual,1st owner,7200,95955.0,6,2,1200.0,100.0,Bajaj
+270,Bajaj Discover 135,20000.0,2010,Individual,1st owner,31195,,12,7,2599.583,216.632,Bajaj
+271,Honda CB Unicorn 150,70000.0,2017,Individual,1st owner,18000,74295.0,5,4,3600.0,300.0,Honda
+272,Vespa SXL 149,98000.0,2019,Individual,1st owner,1000,,3,1,333.333,27.778,Vespa
+273,Royal Enfield Machismo,75000.0,2008,Individual,2nd owner,17000,,14,4,1214.286,101.191,Royal Enfield
+274,Honda CB Shine SP,50000.0,2016,Individual,1st owner,46000,67214.0,6,10,7666.667,638.889,Honda
+275,Honda CB Unicorn 150,40000.0,2014,Individual,1st owner,77592,74295.0,8,16,9699.0,808.25,Honda
+276,Honda CB Unicorn 150,75000.0,2013,Individual,1st owner,54000,74295.0,9,11,6000.0,500.0,Honda
+277,Honda CB Unicorn 150,50000.0,2013,Individual,1st owner,17000,74295.0,9,4,1888.889,157.407,Honda
+278,Bajaj Pulsar 150,60000.0,2014,Individual,1st owner,60000,,8,12,7500.0,625.0,Bajaj
+279,TVS Apache RTR 160,50000.0,2016,Individual,1st owner,40000,,6,8,6666.667,555.556,TVS
+280,Honda Dio,35000.0,2014,Individual,1st owner,25000,,8,5,3125.0,260.417,Honda
+281,Royal Enfield Thunderbird 350,160000.0,2018,Individual,1st owner,19000,,4,4,4750.0,395.833,Royal Enfield
+282,Hero Maestro,25000.0,2015,Individual,2nd owner,40000,49412.0,7,8,5714.286,476.19,Hero
+283,Hero Honda CBZ extreme,42000.0,2010,Individual,1st owner,51000,,12,11,4250.0,354.167,Hero Honda
+284,Bajaj Dominar 400,200000.0,2019,Individual,1st owner,7600,,3,2,2533.333,211.111,Bajaj
+285,Honda Activa 125,40000.0,2014,Individual,1st owner,14965,,8,3,1870.625,155.885,Honda
+286,Royal Enfield Classic Desert Storm,130000.0,2015,Individual,2nd owner,25000,181445.0,7,5,3571.429,297.619,Royal Enfield
+287,KTM 250 Duke,195000.0,2019,Individual,1st owner,6000,,3,2,2000.0,166.667,KTM
+288,KTM RC 390,270000.0,2019,Individual,1st owner,2380,,3,1,793.333,66.111,KTM
+289,Kawasaki Ninja 650 [2018-2019],425000.0,2017,Individual,2nd owner,13600,599000.0,5,3,2720.0,226.667,Kawasaki
+290,TVS Apache RTR 200 4V,85000.0,2018,Individual,1st owner,10000,,4,2,2500.0,208.333,TVS
+291,Kawasaki Ninja 250R,125000.0,2010,Individual,2nd owner,21000,317934.0,12,5,1750.0,145.833,Kawasaki
+292,TVS Wego,45000.0,2018,Individual,1st owner,10000,54760.0,4,2,2500.0,208.333,TVS
+293,Honda CBR-250R,85000.0,2014,Individual,2nd owner,18600,171646.0,8,4,2325.0,193.75,Honda
+294,Bajaj Pulsar NS200,85000.0,2018,Individual,1st owner,7750,,4,2,1937.5,161.458,Bajaj
+295,Suzuki GSX S750,760000.0,2019,Individual,1st owner,2800,752020.0,3,1,933.333,77.778,Suzuki
+296,Royal Enfield Thunderbird 350,100000.0,2015,Individual,1st owner,30000,,7,6,4285.714,357.143,Royal Enfield
+297,Royal Enfield Classic 350,95000.0,2015,Individual,1st owner,9800,,7,2,1400.0,116.667,Royal Enfield
+298,Honda CB Shine SP,48000.0,2015,Individual,1st owner,25000,67469.0,7,5,3571.429,297.619,Honda
+299,Bajaj Avenger Street 150 [2018],40000.0,2016,Individual,1st owner,29689,80435.0,6,6,4948.167,412.347,Bajaj
+300,Honda CBF Stunner,37000.0,2014,Individual,1st owner,43000,58757.0,8,9,5375.0,447.917,Honda
+301,Bajaj Avenger [2015],38000.0,2014,Individual,2nd owner,28243,75502.0,8,6,3530.375,294.198,Bajaj
+302,Suzuki Gixxer [2014-2018],55000.0,2015,Individual,1st owner,25000,78316.0,7,5,3571.429,297.619,Suzuki
+303,Suzuki Access 125,45000.0,2017,Individual,1st owner,22300,,5,5,4460.0,371.667,Suzuki
+304,TVS Scooty Streak,18000.0,2009,Individual,2nd owner,33595,44140.0,13,7,2584.231,215.353,TVS
+305,Royal Enfield Thunderbird 350X,140000.0,2018,Individual,1st owner,5505,,4,2,1376.25,114.688,Royal Enfield
+306,Yamaha Rx,70000.0,2000,Individual,3rd owner,5000,,22,1,227.273,18.939,Yamaha
+307,Hero Honda Splendor Plus,15000.0,2007,Individual,1st owner,30000,,15,6,2000.0,166.667,Hero Honda
+308,Bajaj Pulsar 125,65000.0,2019,Individual,1st owner,16000,,3,4,5333.333,444.444,Bajaj
+309,Honda Activa 5G,42000.0,2018,Individual,1st owner,22000,57557.0,4,5,5500.0,458.333,Honda
+310,Yamaha Fazer Dlx,58000.0,2012,Individual,1st owner,40000,,10,8,4000.0,333.333,Yamaha
+311,Harley-Davidson Street 750,330000.0,2014,Individual,4th owner,6500,534000.0,8,2,812.5,67.708,Harley-Davidson
+312,Hero Xtreme 2014,35000.0,2013,Individual,1st owner,15000,72973.0,9,3,1666.667,138.889,Hero
+313,Royal Enfield Classic 350,162000.0,2018,Individual,1st owner,17365,,4,4,4341.25,361.771,Royal Enfield
+314,Hero Honda Hunk,28000.0,2009,Individual,1st owner,40000,,13,8,3076.923,256.41,Hero Honda
+315,Royal Enfield Interceptor 650,285000.0,2019,Individual,1st owner,5500,,3,2,1833.333,152.778,Royal Enfield
+316,Royal Enfield Classic 350,125000.0,2017,Individual,1st owner,33900,,5,7,6780.0,565.0,Royal Enfield
+317,Bajaj Pulsar 150 [2001-2011],15000.0,2005,Individual,1st owner,47670,,17,10,2804.118,233.677,Bajaj
+318,Honda Activa [2000-2015],29500.0,2013,Individual,1st owner,45000,50267.0,9,9,5000.0,416.667,Honda
+319,TVS Apache RR310,200000.0,2019,Individual,1st owner,5000,,3,1,1666.667,138.889,TVS
+320,Jawa Standard,160000.0,2019,Individual,1st owner,5700,,3,2,1900.0,158.333,Jawa
+321,Hero Honda Splendor PRO,30000.0,2012,Individual,1st owner,22866,,10,5,2286.6,190.55,Hero Honda
+322,Yamaha FZ25,110000.0,2019,Individual,1st owner,10000,133680.0,3,2,3333.333,277.778,Yamaha
+323,Bajaj Pulsar 220F,70000.0,2016,Individual,1st owner,31000,,6,7,5166.667,430.556,Bajaj
+324,Yamaha Fascino 110,69000.0,2019,Individual,1st owner,1600,57112.0,3,1,533.333,44.444,Yamaha
+325,Yamaha FZ16,30000.0,2011,Individual,1st owner,44000,78712.0,11,9,4000.0,333.333,Yamaha
+326,Yamaha FZ16,30000.0,2010,Individual,1st owner,70000,78712.0,12,14,5833.333,486.111,Yamaha
+327,TVS Star City Plus,42000.0,2017,Individual,1st owner,21000,,5,5,4200.0,350.0,TVS
+328,Royal Enfield Classic 350,160000.0,2018,Individual,1st owner,17365,,4,4,4341.25,361.771,Royal Enfield
+329,Bajaj Pulsar 135 LS,20000.0,2010,Individual,1st owner,80000,64589.0,12,16,6666.667,555.556,Bajaj
+330,Suzuki Access 125,45000.0,2017,Individual,1st owner,15000,,5,3,3000.0,250.0,Suzuki
+331,Bajaj Pulsar 135 LS,23000.0,2010,Individual,1st owner,77000,64589.0,12,16,6416.667,534.722,Bajaj
+332,UM Renegade Commando,140000.0,2017,Individual,2nd owner,40000,180525.0,5,8,8000.0,666.667,UM
+333,Hero Honda Splendor Plus,12000.0,2005,Individual,1st owner,48000,,17,10,2823.529,235.294,Hero Honda
+334,Hero Passion PRO i3s,50000.0,2017,Individual,1st owner,18000,56925.0,5,4,3600.0,300.0,Hero
+335,Royal Enfield Classic 350,140000.0,2018,Individual,1st owner,20000,,4,4,5000.0,416.667,Royal Enfield
+336,Honda Activa 5G,55000.0,2019,Individual,1st owner,9000,59422.0,3,2,3000.0,250.0,Honda
+337,Yamaha Fascino 110,45000.0,2016,Individual,1st owner,56000,54500.0,6,12,9333.333,777.778,Yamaha
+338,Hero Splendor Plus,25000.0,2012,Individual,1st owner,50000,,10,10,5000.0,416.667,Hero
+339,Royal Enfield Thunderbird 350,90000.0,2014,Individual,1st owner,12000,,8,3,1500.0,125.0,Royal Enfield
+340,Yamaha YZF R15 V3,120000.0,2018,Individual,1st owner,11500,,4,3,2875.0,239.583,Yamaha
+341,KTM RC 200,120000.0,2015,Individual,1st owner,20000,,7,4,2857.143,238.095,KTM
+342,TVS Radeon,35000.0,2017,Individual,1st owner,20000,66492.0,5,4,4000.0,333.333,TVS
+343,Hero HF Deluxe,35000.0,2017,Individual,1st owner,27000,,5,6,5400.0,450.0,Hero
+344,BMW G310GS,300000.0,2018,Individual,1st owner,2500,349000.0,4,1,625.0,52.083,BMW
+345,Royal Enfield Thunderbird 350,87000.0,2012,Individual,1st owner,20477,,10,5,2047.7,170.642,Royal Enfield
+346,Hero Honda Splendor Plus,18000.0,2010,Individual,1st owner,35700,,12,8,2975.0,247.917,Hero Honda
+347,Yamaha FZ S V 2.0,50000.0,2014,Individual,1st owner,70000,84042.0,8,14,8750.0,729.167,Yamaha
+348,Bajaj Avenger Street 220,60000.0,2016,Individual,1st owner,29000,95955.0,6,6,4833.333,402.778,Bajaj
+349,Hero Honda Splendor Plus,15000.0,2004,Individual,1st owner,14500,,18,3,805.556,67.13,Hero Honda
+350,Bajaj Platina 100,30000.0,2018,Individual,1st owner,37000,,4,8,9250.0,770.833,Bajaj
+351,Royal Enfield Thunderbird 350X,160000.0,2018,Individual,1st owner,3246,,4,1,811.5,67.625,Royal Enfield
+352,Honda CB Unicorn 150,50000.0,2016,Individual,1st owner,27000,74295.0,6,6,4500.0,375.0,Honda
+353,Suzuki Gixxer [2014-2018],62000.0,2017,Individual,1st owner,15000,78316.0,5,3,3000.0,250.0,Suzuki
+354,Bajaj Platina 100,45000.0,2019,Individual,1st owner,15000,,3,3,5000.0,416.667,Bajaj
+355,Royal Enfield Thunderbird 350,120000.0,2017,Individual,1st owner,4050,,5,1,810.0,67.5,Royal Enfield
+356,Royal Enfield Thunderbird 500,125000.0,2014,Individual,1st owner,25000,190874.0,8,5,3125.0,260.417,Royal Enfield
+357,Bajaj Pulsar AS150,50000.0,2015,Individual,1st owner,5000,80821.0,7,1,714.286,59.524,Bajaj
+358,Bajaj Pulsar 150,30000.0,2012,Individual,2nd owner,5000,,10,1,500.0,41.667,Bajaj
+359,Hero Pleasure,40000.0,2014,Individual,1st owner,14000,51600.0,8,3,1750.0,145.833,Hero
+360,Honda Aviator,41000.0,2013,Individual,1st owner,36500,63537.0,9,8,4055.556,337.963,Honda
+361,Royal Enfield Thunderbird 350,120000.0,2017,Individual,2nd owner,9000,,5,2,1800.0,150.0,Royal Enfield
+362,Hero Ignitor,35000.0,2014,Individual,1st owner,33200,67722.0,8,7,4150.0,345.833,Hero
+363,Hero Honda CD100SS,10000.0,1997,Individual,1st owner,646000,,25,130,25840.0,2153.333,Hero Honda
+364,TVS Apache RTR 160,35000.0,2011,Individual,1st owner,25000,,11,5,2272.727,189.394,TVS
+365,Hero Achiever 150,38000.0,2017,Individual,1st owner,26000,69750.0,5,6,5200.0,433.333,Hero
+366,Vespa LX 125,50000.0,2015,Individual,1st owner,3909,77900.0,7,1,558.429,46.536,Vespa
+367,Honda Activa 3G,40000.0,2015,Individual,1st owner,7672,54605.0,7,2,1096.0,91.333,Honda
+368,Hero Splendor Plus i3s,70000.0,2019,Individual,1st owner,3000,55600.0,3,1,1000.0,83.333,Hero
+369,Royal Enfield Classic 350,140000.0,2016,Individual,1st owner,3654,,6,1,609.0,50.75,Royal Enfield
+370,Hero Maestro,26500.0,2016,Individual,2nd owner,40000,53830.0,6,8,6666.667,555.556,Hero
+371,Hero Glamour 125,38000.0,2016,Dealer,1st owner,5500,61600.0,6,2,916.667,76.389,Hero
+372,Yamaha FZ16,60000.0,2016,Individual,1st owner,29950,78712.0,6,6,4991.667,415.972,Yamaha
+373,Royal Enfield Himalayan,145000.0,2017,Individual,1st owner,14000,,5,3,2800.0,233.333,Royal Enfield
+374,Yamaha FZ S V 2.0,78000.0,2017,Individual,1st owner,26100,84480.0,5,6,5220.0,435.0,Yamaha
+375,Hero Maestro Edge,58000.0,2018,Individual,1st owner,6000,54580.0,4,2,1500.0,125.0,Hero
+376,Yamaha FZ25,130000.0,2017,Individual,1st owner,4000,132680.0,5,1,800.0,66.667,Yamaha
+377,TVS Victor,20000.0,2001,Individual,1st owner,50000,54852.0,21,10,2380.952,198.413,TVS
+378,Bajaj Dominar 400 [2018],150000.0,2018,Individual,1st owner,5475,163331.0,4,2,1368.75,114.062,Bajaj
+379,Bajaj Pulsar 180,32000.0,2012,Individual,1st owner,40000,85011.0,10,8,4000.0,333.333,Bajaj
+380,Bajaj Pulsar 180,50000.0,2017,Individual,1st owner,20500,85011.0,5,5,4100.0,341.667,Bajaj
+381,KTM 200 Duke,120000.0,2017,Individual,1st owner,4100,,5,1,820.0,68.333,KTM
+382,Bajaj Avenger Street 150 [2018],60000.0,2016,Individual,2nd owner,23097,80435.0,6,5,3849.5,320.792,Bajaj
+383,Bajaj Discover 100 M,20000.0,2011,Individual,1st owner,37734,44756.0,11,8,3430.364,285.864,Bajaj
+384,Royal Enfield Bullet 350 [2007-2011],65000.0,2011,Individual,2nd owner,65000,,11,13,5909.091,492.424,Royal Enfield
+385,Yamaha YZF R15 S,70000.0,2016,Individual,1st owner,8000,117926.0,6,2,1333.333,111.111,Yamaha
+386,Yamaha FZ V 2.0,35000.0,2014,Individual,1st owner,13500,81508.0,8,3,1687.5,140.625,Yamaha
+387,Bajaj Avenger Street 220,95000.0,2018,Individual,1st owner,23000,95955.0,4,5,5750.0,479.167,Bajaj
+388,Bajaj Pulsar 150,8000.0,2005,Individual,1st owner,58000,,17,12,3411.765,284.314,Bajaj
+389,Royal Enfield Thunderbird 350,85000.0,2010,Individual,1st owner,15000,,12,3,1250.0,104.167,Royal Enfield
+390,Hero Achiever 150,65000.0,2016,Individual,1st owner,29000,69750.0,6,6,4833.333,402.778,Hero
+391,Hero Passion Pro 110,39000.0,2013,Individual,1st owner,20000,,9,4,2222.222,185.185,Hero
+392,Hero Duet,45000.0,2017,Individual,1st owner,35000,50280.0,5,7,7000.0,583.333,Hero
+393,Bajaj Avenger Street 150 [2018],60000.0,2016,Individual,1st owner,45137,80435.0,6,10,7522.833,626.903,Bajaj
+394,Royal Enfield Classic Stealth Black,160000.0,2018,Individual,1st owner,7500,204977.0,4,2,1875.0,156.25,Royal Enfield
+395,Bajaj Pulsar 150,35000.0,2011,Individual,1st owner,35600,,11,8,3236.364,269.697,Bajaj
+396,Bajaj Pulsar 135 LS,40000.0,2018,Individual,1st owner,15000,64589.0,4,3,3750.0,312.5,Bajaj
+397,Yamaha Fazer [2009-2016],40000.0,2012,Individual,1st owner,7353,84751.0,10,2,735.3,61.275,Yamaha
+398,Honda CB Hornet 160R,56000.0,2017,Individual,2nd owner,13200,87543.0,5,3,2640.0,220.0,Honda
+399,Honda CB Unicorn Dazzler,22000.0,2011,Individual,1st owner,38350,71757.0,11,8,3486.364,290.53,Honda
+400,Yamaha YBR 125,36000.0,2014,Individual,1st owner,20400,54593.0,8,5,2550.0,212.5,Yamaha
+401,Suzuki Intruder 150 Fi,100000.0,2018,Individual,1st owner,14500,110240.0,4,3,3625.0,302.083,Suzuki
+402,Bajaj V15,42000.0,2016,Individual,1st owner,19500,67187.0,6,4,3250.0,270.833,Bajaj
+403,Royal Enfield Electra 5 S,85000.0,2008,Individual,1st owner,20000,,14,4,1428.571,119.048,Royal Enfield
+404,Hero Passion PRO TR,45000.0,2014,Individual,1st owner,36000,54586.0,8,8,4500.0,375.0,Hero
+405,Yamaha FZ25,145000.0,2019,Individual,1st owner,4500,133680.0,3,1,1500.0,125.0,Yamaha
+406,Hero Karizma [2003-2014],50000.0,2013,Individual,1st owner,38000,85766.0,9,8,4222.222,351.852,Hero
+407,Royal Enfield Interceptor 650,270000.0,2019,Individual,1st owner,9000,,3,2,3000.0,250.0,Royal Enfield
+408,Royal Enfield Thunderbird 350,60000.0,2006,Individual,1st owner,40000,,16,8,2500.0,208.333,Royal Enfield
+409,Royal Enfield Classic Squadron Blue,140000.0,2017,Individual,1st owner,25000,181445.0,5,5,5000.0,416.667,Royal Enfield
+410,Hero Honda Splendor Plus,28000.0,2008,Individual,1st owner,70889,,14,15,5063.5,421.958,Hero Honda
+411,KTM 390 Duke ABS [2013-2016],180000.0,2015,Individual,2nd owner,13125,202127.0,7,3,1875.0,156.25,KTM
+412,Bajaj Pulsar 180,42000.0,2014,Individual,2nd owner,19600,85011.0,8,4,2450.0,204.167,Bajaj
+413,Suzuki Access 125 [2007-2016],16000.0,2011,Individual,1st owner,40000,58314.0,11,8,3636.364,303.03,Suzuki
+414,Hero Splendor iSmart,40000.0,2015,Individual,1st owner,19055,52271.0,7,4,2722.143,226.845,Hero
+415,Bajaj Pulsar 180,38000.0,2012,Individual,2nd owner,57000,85011.0,10,12,5700.0,475.0,Bajaj
+416,Yamaha YZF R15 S,85000.0,2017,Individual,1st owner,13000,117926.0,5,3,2600.0,216.667,Yamaha
+417,Honda Aviator,28000.0,2013,Individual,1st owner,28087,63537.0,9,6,3120.778,260.065,Honda
+418,KTM 200 Duke,135000.0,2018,Individual,1st owner,24000,,4,5,6000.0,500.0,KTM
+419,Royal Enfield Thunderbird 350,120000.0,2016,Individual,1st owner,24600,,6,5,4100.0,341.667,Royal Enfield
+420,Hero Karizma ZMR,37000.0,2010,Individual,1st owner,27500,108000.0,12,6,2291.667,190.972,Hero
+421,Royal Enfield Classic Chrome,135000.0,2015,Individual,1st owner,45000,189313.0,7,9,6428.571,535.714,Royal Enfield
+422,Hero Honda Splendor,10000.0,2000,Individual,1st owner,61000,,22,13,2772.727,231.061,Hero Honda
+423,Mahindra Rodeo,20000.0,2013,Individual,1st owner,7000,47343.0,9,2,777.778,64.815,Mahindra
+424,TVS Apache RTR 160,83299.0,2019,Individual,1st owner,6400,,3,2,2133.333,177.778,TVS
+425,Yamaha Fazer FI V 2.0 [2016-2018],65000.0,2018,Individual,1st owner,3500,89643.0,4,1,875.0,72.917,Yamaha
+426,Honda Activa 5G,50000.0,2018,Individual,1st owner,14000,59422.0,4,3,3500.0,291.667,Honda
+427,Bajaj Pulsar 220 Fi,65000.0,2013,Individual,1st owner,6409,,9,2,712.111,59.343,Bajaj
+428,Hero Honda Karizma ZMR [2010],45000.0,2012,Individual,3rd owner,44000,,10,9,4400.0,366.667,Hero Honda
+429,Honda CB Hornet 160R,60000.0,2017,Individual,1st owner,16500,92210.0,5,4,3300.0,275.0,Honda
+430,Royal Enfield Bullet 350,110000.0,2015,Individual,1st owner,36000,,7,8,5142.857,428.571,Royal Enfield
+431,Hero Honda CD Deluxe,14700.0,2005,Individual,2nd owner,30000,,17,6,1764.706,147.059,Hero Honda
+432,Yamaha Saluto,38000.0,2015,Individual,1st owner,15000,63180.0,7,3,2142.857,178.571,Yamaha
+433,Suzuki Access 125,70000.0,2018,Individual,1st owner,14500,,4,3,3625.0,302.083,Suzuki
+434,TVS Sport,35000.0,2018,Individual,1st owner,26600,,4,6,6650.0,554.167,TVS
+435,Hero Honda Glamour,19000.0,2012,Individual,1st owner,32000,,10,7,3200.0,266.667,Hero Honda
+436,KTM 125 Duke,130000.0,2019,Individual,1st owner,3500,,3,1,1166.667,97.222,KTM
+437,Bajaj Pulsar NS200,50000.0,2013,Dealer,1st owner,58203,,9,12,6467.0,538.917,Bajaj
+438,Bajaj Pulsar 150 [2001-2011],18000.0,2005,Individual,1st owner,21885,,17,5,1287.353,107.279,Bajaj
+439,Hero Xtreme 200R,87000.0,2019,Individual,1st owner,3200,93400.0,3,1,1066.667,88.889,Hero
+440,Hero Honda Splendor Plus,40000.0,2007,Individual,1st owner,40000,,15,8,2666.667,222.222,Hero Honda
+441,Bajaj Discover 150S,35000.0,2015,Individual,1st owner,28000,63331.0,7,6,4000.0,333.333,Bajaj
+442,Honda CBR-250R,100000.0,2011,Individual,2nd owner,3500,171646.0,11,1,318.182,26.515,Honda
+443,Hero Pleasure,30000.0,2013,Individual,1st owner,24000,51600.0,9,5,2666.667,222.222,Hero
+444,Bajaj Avenger Cruise 220,95000.0,2018,Individual,1st owner,1800,,4,1,450.0,37.5,Bajaj
+445,Bajaj Discover 125 ST,25000.0,2012,Individual,1st owner,76000,58438.0,10,16,7600.0,633.333,Bajaj
+446,Bajaj Pulsar 150 [2001-2011],26500.0,2010,Individual,1st owner,52500,,12,11,4375.0,364.583,Bajaj
+447,Bajaj Boxer,12000.0,2008,Individual,1st owner,17500,,14,4,1250.0,104.167,Bajaj
+448,Bajaj Pulsar 150,20000.0,2006,Individual,1st owner,41000,,16,9,2562.5,213.542,Bajaj
+449,Royal Enfield Classic Signals,195000.0,2018,Individual,1st owner,2845,164095.0,4,1,711.25,59.271,Royal Enfield
+450,Bajaj Pulsar 180,14900.0,2007,Individual,1st owner,50000,85011.0,15,10,3333.333,277.778,Bajaj
+451,Honda Dream Yuga,48000.0,2018,Individual,1st owner,7110,56147.0,4,2,1777.5,148.125,Honda
+452,Yamaha FZ S [2012-2016],40000.0,2014,Individual,1st owner,27785,79432.0,8,6,3473.125,289.427,Yamaha
+453,Honda CB Unicorn,45000.0,2010,Individual,1st owner,75000,71681.0,12,15,6250.0,520.833,Honda
+454,Honda Shine,25000.0,2010,Individual,1st owner,20000,,12,4,1666.667,138.889,Honda
+455,Honda Activa 3G,25000.0,2011,Individual,1st owner,20000,54605.0,11,4,1818.182,151.515,Honda
+456,Honda Activa [2000-2015],10000.0,2009,Individual,1st owner,60000,50267.0,13,12,4615.385,384.615,Honda
+457,Mahindra Flyte,22000.0,2009,Individual,3rd owner,20000,44493.0,13,4,1538.462,128.205,Mahindra
+458,Honda Activa 3G,45000.0,2015,Individual,1st owner,18000,54605.0,7,4,2571.429,214.286,Honda
+459,KTM 250 Duke,135000.0,2017,Individual,1st owner,16500,,5,4,3300.0,275.0,KTM
+460,Yamaha Ray Z,75000.0,2017,Individual,1st owner,15000,52949.0,5,3,3000.0,250.0,Yamaha
+461,Bajaj Pulsar 135 LS,24000.0,2010,Individual,1st owner,45000,64589.0,12,9,3750.0,312.5,Bajaj
+462,Yamaha FZ16,45000.0,2016,Individual,1st owner,37000,78712.0,6,8,6166.667,513.889,Yamaha
+463,Hero Passion PRO i3s,55000.0,2017,Individual,1st owner,14600,54475.0,5,3,2920.0,243.333,Hero
+464,Bajaj Discover 125,10000.0,2006,Individual,1st owner,51000,57549.0,16,11,3187.5,265.625,Bajaj
+465,Royal Enfield Classic 350,135000.0,2017,Individual,1st owner,15000,,5,3,3000.0,250.0,Royal Enfield
+466,Honda CB Unicorn 150,55000.0,2017,Individual,1st owner,12000,74295.0,5,3,2400.0,200.0,Honda
+467,Bajaj Avenger [2015],35000.0,2012,Individual,1st owner,15000,75502.0,10,3,1500.0,125.0,Bajaj
+468,Bajaj Super,20000.0,1988,Individual,1st owner,21000,,34,5,617.647,51.471,Bajaj
+469,Bajaj Pulsar 150,26000.0,2012,Individual,2nd owner,65000,,10,13,6500.0,541.667,Bajaj
+470,Honda Activa [2000-2015],23000.0,2009,Individual,1st owner,95000,50267.0,13,19,7307.692,608.974,Honda
+471,Royal Enfield Classic Desert Storm,150000.0,2015,Individual,1st owner,23000,181445.0,7,5,3285.714,273.81,Royal Enfield
+472,Hero Honda CD Deluxe,24700.0,2012,Individual,2nd owner,40000,,10,8,4000.0,333.333,Hero Honda
+473,Hero Duet,35000.0,2016,Individual,2nd owner,49637,54080.0,6,10,8272.833,689.403,Hero
+474,Hero Honda Passion PRO [2012],12000.0,2012,Individual,1st owner,90000,,10,18,9000.0,750.0,Hero Honda
+475,Royal Enfield Classic 350,150000.0,2017,Individual,1st owner,7000,,5,2,1400.0,116.667,Royal Enfield
+476,Honda Activa 3G,50000.0,2016,Individual,1st owner,5326,54605.0,6,2,887.667,73.972,Honda
+477,Honda Activa [2000-2015],25000.0,2009,Individual,1st owner,585659,50267.0,13,118,45050.692,3754.224,Honda
+478,Hero Honda CD100,15000.0,1999,Dealer,2nd owner,10000,,23,2,434.783,36.232,Hero Honda
+479,Hero Super Splendor,35000.0,2014,Individual,2nd owner,37541,,8,8,4692.625,391.052,Hero
+480,Honda CB Trigger,45000.0,2015,Individual,1st owner,36000,83437.0,7,8,5142.857,428.571,Honda
+481,Honda Dream Yuga,25000.0,2013,Individual,1st owner,29000,56147.0,9,6,3222.222,268.519,Honda
+482,Hero Honda Passion Plus,40000.0,2018,Individual,1st owner,29000,,4,6,7250.0,604.167,Hero Honda
+483,TVS Spectra,17000.0,2008,Individual,1st owner,50000,,14,10,3571.429,297.619,TVS
+484,Hero Ignitor,30000.0,2016,Individual,1st owner,18000,67722.0,6,4,3000.0,250.0,Hero
+485,Hero Honda CD100,15000.0,2000,Individual,1st owner,50000,,22,10,2272.727,189.394,Hero Honda
+486,Bajaj Pulsar 220F,60000.0,2017,Individual,2nd owner,40000,,5,8,8000.0,666.667,Bajaj
+487,Hero Splendor Plus,30000.0,2013,Individual,1st owner,20000,,9,4,2222.222,185.185,Hero
+488,Yamaha YZF R15 [2011-2018],60000.0,2012,Individual,1st owner,22000,118997.0,10,5,2200.0,183.333,Yamaha
+489,Honda Activa 3G,32000.0,2015,Individual,1st owner,4500,54605.0,7,1,642.857,53.571,Honda
+490,Bajaj Discover 150,30000.0,2012,Individual,1st owner,50000,54299.0,10,10,5000.0,416.667,Bajaj
+491,Bajaj Pulsar 150 [2001-2011],55000.0,2010,Individual,1st owner,42000,,12,9,3500.0,291.667,Bajaj
+492,Bajaj Avenger Street 150 [2018],75000.0,2016,Individual,1st owner,35000,80435.0,6,7,5833.333,486.111,Bajaj
+493,TVS Star City Plus,52000.0,2017,Individual,1st owner,25000,,5,5,5000.0,416.667,TVS
+494,Bajaj Discover 125,38000.0,2018,Individual,1st owner,34000,60122.0,4,7,8500.0,708.333,Bajaj
+495,Bajaj Discover 135,12000.0,2007,Individual,1st owner,60000,,15,12,4000.0,333.333,Bajaj
+496,Honda CB Shine SP,47000.0,2017,Individual,1st owner,73000,64750.0,5,15,14600.0,1216.667,Honda
+497,Honda Activa [2000-2015],22000.0,2014,Individual,1st owner,38000,50267.0,8,8,4750.0,395.833,Honda
+498,Bajaj Avenger [2015],65000.0,2015,Individual,1st owner,26000,75502.0,7,6,3714.286,309.524,Bajaj
+499,Bajaj Platina 100,23000.0,2013,Individual,2nd owner,24000,,9,5,2666.667,222.222,Bajaj
+500,Bajaj Discover 100,30000.0,2011,Individual,1st owner,45000,42859.0,11,9,4090.909,340.909,Bajaj
+501,Bajaj Pulsar 150,35000.0,2011,Individual,1st owner,36000,,11,8,3272.727,272.727,Bajaj
+502,Bajaj Avenger Street 150 [2018],80000.0,2017,Individual,1st owner,30000,80435.0,5,6,6000.0,500.0,Bajaj
+503,Bajaj Platina 100,20000.0,2012,Individual,1st owner,16295,,10,4,1629.5,135.792,Bajaj
+504,Bajaj Pulsar 150,16000.0,2011,Individual,2nd owner,59000,,11,12,5363.636,446.97,Bajaj
+505,Bajaj Pulsar 150,20000.0,2006,Individual,1st owner,9500,,16,2,593.75,49.479,Bajaj
+506,Bajaj Pulsar NS200,50000.0,2012,Individual,1st owner,46000,,10,10,4600.0,383.333,Bajaj
+507,Honda CB Trigger,40000.0,2015,Individual,1st owner,75000,76572.0,7,15,10714.286,892.857,Honda
+508,Bajaj Pulsar 135 LS,20000.0,2010,Individual,1st owner,80000,64589.0,12,16,6666.667,555.556,Bajaj
+509,Bajaj Pulsar 180,65000.0,2018,Individual,1st owner,26000,85011.0,4,6,6500.0,541.667,Bajaj
+510,Yamaha YZF R15 S,85000.0,2016,Individual,1st owner,26000,117926.0,6,6,4333.333,361.111,Yamaha
+511,Hero Splendor Plus,12000.0,2007,Individual,1st owner,100000,,15,20,6666.667,555.556,Hero
+512,Hero Xpulse 200T,105000.0,2019,Individual,1st owner,2900,96500.0,3,1,966.667,80.556,Hero
+513,Yamaha FZ S V 2.0,40000.0,2015,Individual,1st owner,25000,84042.0,7,5,3571.429,297.619,Yamaha
+514,Bajaj Discover 150,30000.0,2011,Individual,2nd owner,39500,54299.0,11,8,3590.909,299.242,Bajaj
+515,Honda Activa [2000-2015],25000.0,2012,Individual,1st owner,40000,50267.0,10,8,4000.0,333.333,Honda
+516,Hero Splendor PRO,40000.0,2016,Individual,1st owner,16000,51994.0,6,4,2666.667,222.222,Hero
+517,Honda Dream Neo,45000.0,2017,Individual,2nd owner,21000,49211.0,5,5,4200.0,350.0,Honda
+518,Bajaj CT 100,40000.0,2018,Individual,1st owner,14000,,4,3,3500.0,291.667,Bajaj
+519,Suzuki Access 125,70000.0,2018,Individual,1st owner,7000,76632.0,4,2,1750.0,145.833,Suzuki
+520,Honda Activa [2000-2015],30000.0,2012,Individual,1st owner,22000,50267.0,10,5,2200.0,183.333,Honda
+521,Hero Honda Pleasure,25000.0,2009,Individual,1st owner,50000,,13,10,3846.154,320.513,Hero Honda
+522,Bajaj Platina 100,20000.0,2012,Individual,1st owner,16295,,10,4,1629.5,135.792,Bajaj
+523,Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,35000,87719.0,5,7,7000.0,583.333,Honda
+524,Bajaj V15,50000.0,2017,Individual,1st owner,9000,65626.0,5,2,1800.0,150.0,Bajaj
+525,Hero Honda CD Deluxe,25000.0,2010,Individual,1st owner,35000,,12,7,2916.667,243.056,Hero Honda
+526,Bajaj Pulsar 150,22000.0,2011,Individual,1st owner,60000,,11,12,5454.545,454.545,Bajaj
+527,Honda Activa [2000-2015],35000.0,2013,Individual,1st owner,29500,50267.0,9,6,3277.778,273.148,Honda
+528,TVS Apache RTR 160,40000.0,2014,Individual,2nd owner,50000,,8,10,6250.0,520.833,TVS
+529,Bajaj Pulsar 220F,75000.0,2016,Individual,1st owner,10500,,6,3,1750.0,145.833,Bajaj
+530,Hero Honda Passion PRO [2012],28000.0,2011,Individual,2nd owner,60000,,11,12,5454.545,454.545,Hero Honda
+531,Hero Maestro Edge,55000.0,2018,Individual,1st owner,39000,52790.0,4,8,9750.0,812.5,Hero
+532,Honda Dio,30000.0,2014,Individual,1st owner,24000,,8,5,3000.0,250.0,Honda
+533,Hero Glamour 125,40000.0,2016,Individual,1st owner,15000,61600.0,6,3,2500.0,208.333,Hero
+534,Bajaj Avenger Street 160,85000.0,2019,Individual,1st owner,3000,,3,1,1000.0,83.333,Bajaj
+535,Hero Honda CD Deluxe,12000.0,2007,Individual,2nd owner,100000,,15,20,6666.667,555.556,Hero Honda
+536,Yamaha YBR 125,35000.0,2013,Individual,1st owner,20350,54593.0,9,5,2261.111,188.426,Yamaha
+537,Bajaj Pulsar 150,25000.0,2015,Individual,2nd owner,50000,,7,10,7142.857,595.238,Bajaj
+538,Bajaj Pulsar 150,40000.0,2012,Individual,2nd owner,37000,,10,8,3700.0,308.333,Bajaj
+539,Hero Honda CD Deluxe,15000.0,2011,Individual,1st owner,70000,,11,14,6363.636,530.303,Hero Honda
+540,Hero Passion PRO i3s,55000.0,2018,Individual,1st owner,15000,54475.0,4,3,3750.0,312.5,Hero
+541,Bajaj Pulsar 180,60000.0,2015,Individual,1st owner,28563,85011.0,7,6,4080.429,340.036,Bajaj
+542,Yamaha Fazer 25,115000.0,2018,Individual,1st owner,11000,142680.0,4,3,2750.0,229.167,Yamaha
+543,TVS Excel,5000.0,1998,Individual,1st owner,60000,,24,12,2500.0,208.333,TVS
+544,Honda Shine,40000.0,2015,Individual,1st owner,21121,,7,5,3017.286,251.441,Honda
+545,Honda Dream Neo,50000.0,2014,Individual,1st owner,25000,49211.0,8,5,3125.0,260.417,Honda
+546,Honda Dio,28000.0,2014,Individual,1st owner,13000,,8,3,1625.0,135.417,Honda
+547,Hero Splendor Plus,35000.0,2013,Individual,1st owner,55000,,9,11,6111.111,509.259,Hero
+548,Bajaj Xcd,25000.0,2007,Individual,2nd owner,100000,,15,20,6666.667,555.556,Bajaj
+549,TVS Streak,20000.0,2009,Individual,2nd owner,36000,,13,8,2769.231,230.769,TVS
+550,Bajaj Pulsar 180,40000.0,2013,Individual,1st owner,34000,85011.0,9,7,3777.778,314.815,Bajaj
+551,Hero Xtreme 200R,86000.0,2018,Individual,1st owner,12000,93400.0,4,3,3000.0,250.0,Hero
+552,Yamaha YZF R15 [2011-2018],65000.0,2011,Individual,1st owner,29000,,11,6,2636.364,219.697,Yamaha
+553,Bajaj Avenger Street 150 [2018],60000.0,2017,Individual,1st owner,30000,80435.0,5,6,6000.0,500.0,Bajaj
+554,Yamaha RX135,65000.0,1998,Individual,3rd owner,16500,,24,4,687.5,57.292,Yamaha
+555,Honda CB Shine SP,41000.0,2017,Individual,1st owner,33000,66697.0,5,7,6600.0,550.0,Honda
+556,Honda CBR150 R,110000.0,2017,Individual,1st owner,11800,129662.0,5,3,2360.0,196.667,Honda
+557,Honda Dream Yuga,32000.0,2017,Individual,1st owner,39000,56147.0,5,8,7800.0,650.0,Honda
+558,Honda Shine,37000.0,2014,Individual,1st owner,16145,,8,4,2018.125,168.177,Honda
+559,Hero Splendor Plus i3s,65000.0,2019,Individual,1st owner,1000,55600.0,3,1,333.333,27.778,Hero
+560,Hero Honda Passion Plus,18000.0,2007,Individual,2nd owner,50000,,15,10,3333.333,277.778,Hero Honda
+561,Hero Honda Passion PRO [2012],28700.0,2012,Individual,2nd owner,49876,,10,10,4987.6,415.633,Hero Honda
+562,Honda Activa 3G,35000.0,2016,Individual,1st owner,51000,54605.0,6,11,8500.0,708.333,Honda
+563,Bajaj Pulsar 180F,100000.0,2019,Individual,1st owner,1300,,3,1,433.333,36.111,Bajaj
+564,Hero Honda Glamour,21000.0,2010,Individual,1st owner,11000,,12,3,916.667,76.389,Hero Honda
+565,Bajaj Pulsar 150 [2001-2011],30000.0,2010,Individual,2nd owner,55000,,12,11,4583.333,381.944,Bajaj
+566,TVS Apache RTR 200 4V,90000.0,2019,Individual,1st owner,20000,,3,4,6666.667,555.556,TVS
+567,Bajaj Super,6000.0,1991,Individual,1st owner,35000,,31,7,1129.032,94.086,Bajaj
+568,Hero Honda Passion Plus,23500.0,2010,Individual,1st owner,60000,,12,12,5000.0,416.667,Hero Honda
+569,Bajaj Pulsar 150,55000.0,2015,Individual,2nd owner,40000,,7,8,5714.286,476.19,Bajaj
+570,Yamaha SZ X,35000.0,2010,Individual,1st owner,46000,65800.0,12,10,3833.333,319.444,Yamaha
+571,Hero Honda CD100,15000.0,1998,Individual,1st owner,65000,,24,13,2708.333,225.694,Hero Honda
+572,Bajaj Pulsar 180,35000.0,2009,Individual,1st owner,19000,85011.0,13,4,1461.538,121.795,Bajaj
+573,Bajaj Pulsar 220 DTS-i,40000.0,2011,Individual,1st owner,26000,,11,6,2363.636,196.97,Bajaj
+574,Hero Honda Achiever,15000.0,2009,Individual,1st owner,86000,,13,18,6615.385,551.282,Hero Honda
+575,Hero Honda Karizma,40000.0,2011,Individual,2nd owner,340000,,11,68,30909.091,2575.758,Hero Honda
+576,Honda CB Unicorn 160,75000.0,2016,Individual,1st owner,40000,77545.0,6,8,6666.667,555.556,Honda
+577,Bajaj Avenger Cruise 220,70000.0,2016,Individual,1st owner,10000,,6,2,1666.667,138.889,Bajaj
+578,Bajaj Discover 135,22000.0,2007,Individual,1st owner,25000,,15,5,1666.667,138.889,Bajaj
+579,Yamaha FZ S V 2.0,80000.0,2019,Individual,1st owner,10000,87042.0,3,2,3333.333,277.778,Yamaha
+580,Bajaj Pulsar 150,72000.0,2017,Individual,1st owner,24000,,5,5,4800.0,400.0,Bajaj
+581,Hero HF Deluxe,30000.0,2014,Individual,2nd owner,35000,,8,7,4375.0,364.583,Hero
+582,Bajaj Pulsar 135 LS,25000.0,2011,Individual,2nd owner,30000,64589.0,11,6,2727.273,227.273,Bajaj
+583,Aprilia SR 125,65000.0,2018,Individual,1st owner,6500,,4,2,1625.0,135.417,Aprilia
+584,Bajaj Pulsar 150,68000.0,2019,Individual,1st owner,10000,,3,2,3333.333,277.778,Bajaj
+585,Hero Duet,27000.0,2016,Individual,1st owner,28000,50280.0,6,6,4666.667,388.889,Hero
+586,Honda CB Twister,25000.0,2015,Individual,1st owner,35000,57241.0,7,7,5000.0,416.667,Honda
+587,Bajaj Discover 125,45000.0,2016,Individual,1st owner,20000,60122.0,6,4,3333.333,277.778,Bajaj
+588,Honda CBR-250R,200000.0,2019,Individual,1st owner,5500,202310.0,3,2,1833.333,152.778,Honda
+589,Bajaj Pulsar 180,20100.0,2008,Individual,1st owner,36000,85011.0,14,8,2571.429,214.286,Bajaj
+590,Honda Shine,30000.0,2014,Individual,1st owner,25000,,8,5,3125.0,260.417,Honda
+591,Suzuki Swish [2012-2015],30000.0,2014,Individual,1st owner,30000,51685.0,8,6,3750.0,312.5,Suzuki
+592,TVS Star City,21000.0,2011,Individual,1st owner,101000,47108.0,11,21,9181.818,765.151,TVS
+593,Hero Super Splendor,45000.0,2012,Individual,1st owner,21000,,10,5,2100.0,175.0,Hero
+594,Yamaha Fazer [2009-2016],45000.0,2014,Individual,1st owner,57700,84751.0,8,12,7212.5,601.042,Yamaha
+595,TVS Scooty Pep DLX,14500.0,2012,Individual,1st owner,44000,,10,9,4400.0,366.667,TVS
+596,Honda Dream Yuga,47000.0,2019,Individual,1st owner,8800,56147.0,3,2,2933.333,244.444,Honda
+597,TVS Star City Plus,26000.0,2014,Individual,2nd owner,68000,,8,14,8500.0,708.333,TVS
+598,Yamaha Fazer [2009-2016],25000.0,2013,Individual,1st owner,120000,84751.0,9,24,13333.333,1111.111,Yamaha
+599,Hero Honda Street Smart,10000.0,2000,Individual,1st owner,24000,,22,5,1090.909,90.909,Hero Honda
+600,TVS Apache RTR 160,50000.0,2017,Individual,1st owner,38000,,5,8,7600.0,633.333,TVS
+601,Honda Dio,23000.0,2010,Individual,1st owner,40000,,12,8,3333.333,277.778,Honda
+602,Honda Activa [2000-2015],50000.0,2014,Individual,1st owner,48000,50267.0,8,10,6000.0,500.0,Honda
+603,Hero Maestro Edge,46000.0,2015,Individual,1st owner,14000,55980.0,7,3,2000.0,166.667,Hero
+604,Honda CB Hornet 160R,80000.0,2017,Individual,1st owner,18000,87719.0,5,4,3600.0,300.0,Honda
+605,Hero Karizma [2003-2014],50000.0,2013,Individual,1st owner,38000,85766.0,9,8,4222.222,351.852,Hero
+606,Honda CB Trigger,40000.0,2014,Individual,1st owner,75000,83437.0,8,15,9375.0,781.25,Honda
+607,Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,35000,87719.0,5,7,7000.0,583.333,Honda
+608,Hero Glamour FI,30900.0,2014,Individual,1st owner,25000,71150.0,8,5,3125.0,260.417,Hero
+609,Bajaj Avenger [2015],65000.0,2010,Individual,1st owner,20000,75502.0,12,4,1666.667,138.889,Bajaj
+610,Hero Honda Splendor Plus,15000.0,2006,Individual,1st owner,100000,,16,20,6250.0,520.833,Hero Honda
+611,TVS Apache RTR 160,89999.0,2019,Individual,1st owner,6400,,3,2,2133.333,177.778,TVS
+612,Hero Honda Splendor Plus,17600.0,2006,Individual,1st owner,52000,,16,11,3250.0,270.833,Hero Honda
+613,Bajaj Platina 100,17000.0,2007,Individual,1st owner,16000,,15,4,1066.667,88.889,Bajaj
+614,Yamaha FZ25,90000.0,2018,Individual,1st owner,8200,132680.0,4,2,2050.0,170.833,Yamaha
+615,Bajaj Pulsar 150 [2001-2011],35000.0,2010,Individual,1st owner,60000,,12,12,5000.0,416.667,Bajaj
+616,Yamaha YZF R15 S,70000.0,2017,Individual,1st owner,16000,117926.0,5,4,3200.0,266.667,Yamaha
+617,Bajaj Discover 125,15000.0,2011,Individual,1st owner,47000,57549.0,11,10,4272.727,356.061,Bajaj
+618,Hero Passion PRO i3s,35000.0,2016,Individual,1st owner,18000,54475.0,6,4,3000.0,250.0,Hero
+619,Honda Activa [2000-2015],15000.0,2006,Individual,1st owner,50000,50267.0,16,10,3125.0,260.417,Honda
+620,Bajaj Discover 125,50000.0,2018,Individual,1st owner,6000,60122.0,4,2,1500.0,125.0,Bajaj
+621,Suzuki Gixxer [2014-2018],69000.0,2017,Individual,1st owner,20000,82813.0,5,4,4000.0,333.333,Suzuki
+622,TVS Wego,15000.0,2011,Individual,1st owner,65000,54760.0,11,13,5909.091,492.424,TVS
+623,Bajaj Discover 150,25000.0,2008,Individual,1st owner,25000,54299.0,14,5,1785.714,148.809,Bajaj
+624,Suzuki Access 125 [2007-2016],30000.0,2012,Individual,1st owner,23000,58314.0,10,5,2300.0,191.667,Suzuki
+625,Hero Karizma 2014,45000.0,2014,Individual,1st owner,5555,86744.0,8,2,694.375,57.865,Hero
+626,Hero CD Deluxe,35000.0,2016,Individual,1st owner,38000,,6,8,6333.333,527.778,Hero
+627,Yamaha Fazer 25,120000.0,2018,Individual,1st owner,6000,142680.0,4,2,1500.0,125.0,Yamaha
+628,Hero Splendor Plus,25000.0,2015,Individual,1st owner,45000,,7,9,6428.571,535.714,Hero
+629,Yamaha YZF R15 [2011-2018],80000.0,2017,Individual,1st owner,27000,118997.0,5,6,5400.0,450.0,Yamaha
+630,Hero Honda Splendor Plus,10000.0,2007,Individual,1st owner,98000,,15,20,6533.333,544.444,Hero Honda
+631,TVS Apache RTR 160,70000.0,2018,Individual,1st owner,16000,,4,4,4000.0,333.333,TVS
+632,Bajaj Pulsar 150,35000.0,2011,Individual,1st owner,50000,,11,10,4545.455,378.788,Bajaj
+633,Hero Glamour 125,40000.0,2015,Individual,1st owner,71250,61600.0,7,15,10178.571,848.214,Hero
+634,Hero Honda Passion Plus,20000.0,2006,Individual,1st owner,28000,,16,6,1750.0,145.833,Hero Honda
+635,Honda CB Twister,30000.0,2012,Individual,1st owner,50000,57241.0,10,10,5000.0,416.667,Honda
+636,Bajaj CT 100,8000.0,2005,Individual,2nd owner,82000,,17,17,4823.529,401.961,Bajaj
+637,Bajaj Pulsar 220 DTS-i,65000.0,2013,Individual,1st owner,6409,,9,2,712.111,59.343,Bajaj
+638,Hero Honda Super Splendor [2005],20000.0,2008,Individual,1st owner,54000,,14,11,3857.143,321.429,Hero Honda
+639,Honda CB Trigger,45000.0,2013,Individual,1st owner,20000,76572.0,9,4,2222.222,185.185,Honda
+640,Hero Hunk,35000.0,2013,Individual,1st owner,50000,78513.0,9,10,5555.556,462.963,Hero
+641,Bajaj Discover 150,25000.0,2011,Individual,1st owner,52000,54299.0,11,11,4727.273,393.939,Bajaj
+642,TVS Apache RTR 160,15000.0,2009,Individual,4th owner,880000,,13,176,67692.308,5641.026,TVS
+643,Hero Xtreme Sports,65000.0,2017,Individual,1st owner,23000,78350.0,5,5,4600.0,383.333,Hero
+644,Bajaj Avenger [2015],45000.0,2011,Individual,1st owner,35000,75502.0,11,7,3181.818,265.151,Bajaj
+645,Honda Activa 125,45000.0,2017,Individual,1st owner,49000,,5,10,9800.0,816.667,Honda
+646,Bajaj Pulsar 220F,50000.0,2011,Individual,2nd owner,55000,,11,11,5000.0,416.667,Bajaj
+647,Bajaj Pulsar NS200,85000.0,2018,Individual,2nd owner,15100,,4,4,3775.0,314.583,Bajaj
+648,Hero Honda Splendor,25000.0,2008,Individual,1st owner,38000,,14,8,2714.286,226.191,Hero Honda
+649,Honda CB Unicorn 150,60000.0,2017,Individual,1st owner,12652,74295.0,5,3,2530.4,210.867,Honda
+650,Suzuki Gixxer SF Fi,100000.0,2019,Individual,1st owner,7000,103170.0,3,2,2333.333,194.444,Suzuki
+651,KTM RC 200,180000.0,2019,Individual,2nd owner,13800,,3,3,4600.0,383.333,KTM
+652,Bajaj Discover 100,25000.0,2010,Individual,2nd owner,28000,42859.0,12,6,2333.333,194.444,Bajaj
+653,TVS Wego,15000.0,2011,Individual,2nd owner,20000,54760.0,11,4,1818.182,151.515,TVS
+654,Honda CB Hornet 160R,60000.0,2017,Individual,2nd owner,16008,92210.0,5,4,3201.6,266.8,Honda
+655,Yamaha YZF R15 S,75000.0,2018,Individual,1st owner,36000,117926.0,4,8,9000.0,750.0,Yamaha
+656,Hero CBZ,35000.0,2010,Individual,1st owner,36000,,12,8,3000.0,250.0,Hero
+657,TVS Scooty Zest 110,55000.0,2018,Individual,1st owner,380,53751.0,4,1,95.0,7.917,TVS
+658,Yamaha FZ S V 2.0,85000.0,2018,Individual,1st owner,50000,87042.0,4,10,12500.0,1041.667,Yamaha
+659,Hero Honda Glamour,35000.0,2012,Individual,1st owner,30000,,10,6,3000.0,250.0,Hero Honda
+660,Hero Honda CBZ extreme,35000.0,2011,Individual,1st owner,35000,,11,7,3181.818,265.151,Hero Honda
+661,Yamaha FZ S V 2.0,60000.0,2017,Individual,1st owner,14500,84042.0,5,3,2900.0,241.667,Yamaha
+662,Suzuki Access 125,40000.0,2017,Individual,1st owner,15000,,5,3,3000.0,250.0,Suzuki
+663,Bajaj Pulsar 150,30000.0,2010,Individual,1st owner,54000,,12,11,4500.0,375.0,Bajaj
+664,Bajaj Pulsar NS160,80000.0,2018,Individual,1st owner,11000,,4,3,2750.0,229.167,Bajaj
+665,Hero Splendor PRO,24000.0,2011,Individual,1st owner,43000,51994.0,11,9,3909.091,325.758,Hero
+666,Honda Shine,18000.0,2010,Individual,1st owner,15000,,12,3,1250.0,104.167,Honda
+667,Hero Passion Pro 110,20000.0,2008,Individual,3rd owner,40000,,14,8,2857.143,238.095,Hero
+668,Yamaha FZ16,40000.0,2016,Individual,1st owner,93000,78712.0,6,19,15500.0,1291.667,Yamaha
+669,Suzuki Access 125,20000.0,2012,Individual,1st owner,24000,,10,5,2400.0,200.0,Suzuki
+670,TVS Jupiter,70000.0,2018,Individual,1st owner,14000,,4,3,3500.0,291.667,TVS
+671,Hero Passion Pro 110,50000.0,2019,Individual,1st owner,29442,,3,6,9814.0,817.833,Hero
+672,Yamaha FZ S V 2.0,75000.0,2017,Individual,1st owner,20000,84042.0,5,4,4000.0,333.333,Yamaha
+673,Honda Livo,25000.0,2015,Individual,1st owner,30000,,7,6,4285.714,357.143,Honda
+674,Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,38000,87543.0,5,8,7600.0,633.333,Honda
+675,Honda Activa 125 [2016-2017],55000.0,2018,Individual,1st owner,18000,61545.0,4,4,4500.0,375.0,Honda
+676,Honda Activa 5G,51000.0,2018,Individual,1st owner,14000,59422.0,4,3,3500.0,291.667,Honda
+677,Yamaha Saluto,74000.0,2019,Individual,1st owner,13000,59844.0,3,3,4333.333,361.111,Yamaha
+678,Yamaha FZ S V 2.0,65000.0,2017,Individual,1st owner,42000,84042.0,5,9,8400.0,700.0,Yamaha
+679,Bajaj Avenger Street 150 [2018],60000.0,2016,Individual,2nd owner,27000,80435.0,6,6,4500.0,375.0,Bajaj
+680,Bajaj Pulsar 220F,110000.0,2019,Individual,1st owner,4000,,3,1,1333.333,111.111,Bajaj
+681,Yamaha YZF R15 [2011-2018],50000.0,2014,Individual,1st owner,1200,118997.0,8,1,150.0,12.5,Yamaha
+682,TVS Apache RTR 160 4V,85009.0,2018,Individual,1st owner,7500,,4,2,1875.0,156.25,TVS
+683,Hero Passion Pro 110,60000.0,2013,Individual,1st owner,15000,,9,3,1666.667,138.889,Hero
+684,Bajaj Pulsar 150,25000.0,2013,Individual,2nd owner,70000,,9,14,7777.778,648.148,Bajaj
+685,TVS Apache RTR 160 4V,75000.0,2019,Individual,1st owner,12657,,3,3,4219.0,351.583,TVS
+686,Honda CB Unicorn 150,30000.0,2010,Individual,1st owner,69000,74295.0,12,14,5750.0,479.167,Honda
+687,Honda Activa [2000-2015],16600.0,2010,Individual,1st owner,100000,50267.0,12,20,8333.333,694.444,Honda
+688,Honda Activa 3G,30000.0,2015,Individual,1st owner,18000,54605.0,7,4,2571.429,214.286,Honda
+689,Honda Shine,20000.0,2007,Individual,1st owner,80000,,15,16,5333.333,444.444,Honda
+690,Honda Activa 5G,62000.0,2019,Individual,1st owner,11200,59422.0,3,3,3733.333,311.111,Honda
+691,Bajaj Avenger Street 220,60000.0,2016,Individual,1st owner,17000,95955.0,6,4,2833.333,236.111,Bajaj
+692,Hero Xtreme [2013-2014],45000.0,2014,Individual,1st owner,56420,72492.0,8,12,7052.5,587.708,Hero
+693,Yamaha FZ S [2012-2016],40000.0,2011,Individual,1st owner,82000,79432.0,11,17,7454.545,621.212,Yamaha
+694,Suzuki Intruder 150,75000.0,2018,Individual,1st owner,10000,,4,2,2500.0,208.333,Suzuki
+695,Yamaha Fazer [2009-2016],50000.0,2012,Individual,1st owner,100000,84751.0,10,20,10000.0,833.333,Yamaha
+696,Bajaj Pulsar RS 200,105000.0,2017,Individual,1st owner,18345,,5,4,3669.0,305.75,Bajaj
+697,Bajaj Discover 135,30000.0,2009,Individual,1st owner,20000,,13,4,1538.462,128.205,Bajaj
+698,Hero Honda CBZ,10000.0,2000,Individual,4th owner,48000,,22,10,2181.818,181.818,Hero Honda
+699,Bajaj Pulsar 135 LS,45000.0,2014,Individual,1st owner,14000,64589.0,8,3,1750.0,145.833,Bajaj
+700,Yamaha Fazer 25,145000.0,2018,Individual,2nd owner,4100,142680.0,4,1,1025.0,85.417,Yamaha
+701,Honda CB Unicorn 150,45000.0,2016,Individual,2nd owner,50000,74295.0,6,10,8333.333,694.444,Honda
+702,Honda Activa 5G,65000.0,2019,Individual,1st owner,3025,59422.0,3,1,1008.333,84.028,Honda
+703,Bajaj Pulsar 135 LS,20000.0,2011,Individual,1st owner,60000,64589.0,11,12,5454.545,454.545,Bajaj
+704,Hero Duet,37000.0,2016,Individual,1st owner,6000,50280.0,6,2,1000.0,83.333,Hero
+705,Hero Splendor NXG,18000.0,2011,Individual,1st owner,35000,44814.0,11,7,3181.818,265.151,Hero
+706,Hero Glamour 125,25000.0,2013,Individual,1st owner,50000,61600.0,9,10,5555.556,462.963,Hero
+707,Honda Activa 5G,46000.0,2018,Individual,1st owner,10000,57557.0,4,2,2500.0,208.333,Honda
+708,Yamaha Fascino 110,55000.0,2019,Individual,1st owner,7000,57112.0,3,2,2333.333,194.444,Yamaha
+709,Bajaj V15,40000.0,2016,Individual,1st owner,34000,67187.0,6,7,5666.667,472.222,Bajaj
+710,Hero Honda Passion PRO [2012],25000.0,2012,Individual,2nd owner,20000,,10,4,2000.0,166.667,Hero Honda
+711,Honda Activa [2000-2015],25000.0,2012,Individual,1st owner,38000,50267.0,10,8,3800.0,316.667,Honda
+712,Bajaj Xcd,15000.0,2008,Individual,1st owner,100000,,14,20,7142.857,595.238,Bajaj
+713,Bajaj Pulsar NS160,70000.0,2018,Individual,1st owner,20000,,4,4,5000.0,416.667,Bajaj
+714,Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,240000,92210.0,5,48,48000.0,4000.0,Honda
+715,Yamaha RXG,25000.0,1997,Individual,1st owner,45354,,25,10,1814.16,151.18,Yamaha
+716,TVS Streak,10000.0,2009,Individual,1st owner,100000,,13,20,7692.308,641.026,TVS
+717,Bajaj Pulsar RS 200,80000.0,2015,Individual,1st owner,32000,,7,7,4571.429,380.952,Bajaj
+718,Yamaha Alpha,25000.0,2015,Individual,2nd owner,14000,54253.0,7,3,2000.0,166.667,Yamaha
+719,Honda Livo,35000.0,2016,Individual,1st owner,70000,,6,14,11666.667,972.222,Honda
+720,Mahindra Gusto,25000.0,2016,Individual,1st owner,13500,51185.0,6,3,2250.0,187.5,Mahindra
+721,Bajaj Discover 125,26000.0,2012,Individual,1st owner,75000,57549.0,10,15,7500.0,625.0,Bajaj
+722,Hero Glamour 125,15000.0,2011,Individual,1st owner,75000,61600.0,11,15,6818.182,568.182,Hero
+723,Honda CB Unicorn 160,50000.0,2017,Individual,1st owner,52000,77545.0,5,11,10400.0,866.667,Honda
+724,Hero Pleasure,26500.0,2013,Individual,1st owner,18860,49600.0,9,4,2095.556,174.63,Hero
+725,Royal Enfield Classic 350,135000.0,2017,Individual,1st owner,2700,,5,1,540.0,45.0,Royal Enfield
+726,Honda CB Hornet 160R,80000.0,2016,Individual,1st owner,100000,92661.0,6,20,16666.667,1388.889,Honda
+727,Bajaj CT 100,30000.0,2016,Individual,1st owner,38500,,6,8,6416.667,534.722,Bajaj
+728,Yamaha FZ S V 2.0,90000.0,2018,Individual,1st owner,10500,87042.0,4,3,2625.0,218.75,Yamaha
+729,Bajaj Pulsar 180,85000.0,2016,Individual,1st owner,35000,85011.0,6,7,5833.333,486.111,Bajaj
+730,Hero Glamour 125,54000.0,2013,Individual,1st owner,17000,61600.0,9,4,1888.889,157.407,Hero
+731,Bajaj CT 100,42000.0,2019,Individual,1st owner,2900,,3,1,966.667,80.556,Bajaj
+732,Bajaj Discover 100 T,25000.0,2014,Individual,1st owner,30000,47032.0,8,6,3750.0,312.5,Bajaj
+733,TVS Star City Plus,50000.0,2016,Individual,2nd owner,14000,,6,3,2333.333,194.444,TVS
+734,Honda CB Unicorn 150,55000.0,2014,Individual,1st owner,10000,74295.0,8,2,1250.0,104.167,Honda
+735,Hero Passion PRO TR,35000.0,2014,Individual,1st owner,9556,54586.0,8,2,1194.5,99.542,Hero
+736,Honda CB Shine SP,50000.0,2018,Individual,1st owner,37000,64750.0,4,8,9250.0,770.833,Honda
+737,Bajaj V15,45000.0,2015,Individual,1st owner,2700,65626.0,7,1,385.714,32.143,Bajaj
+738,Bajaj V15,45000.0,2016,Individual,1st owner,36000,67187.0,6,8,6000.0,500.0,Bajaj
+739,Bajaj Discover 100,28000.0,2015,Individual,2nd owner,52000,42859.0,7,11,7428.571,619.048,Bajaj
+740,Royal Enfield Electra 4 S,80000.0,2013,Individual,1st owner,46000,,9,10,5111.111,425.926,Royal Enfield
+741,KTM 200 Duke,130000.0,2016,Individual,1st owner,12000,,6,3,2000.0,166.667,KTM
+742,Bajaj Pulsar 220F,120000.0,2019,Individual,1st owner,6500,,3,2,2166.667,180.556,Bajaj
+743,Suzuki GS150R,27000.0,2012,Individual,1st owner,14100,70851.0,10,3,1410.0,117.5,Suzuki
+744,Honda Shine,30000.0,2014,Individual,1st owner,40000,,8,8,5000.0,416.667,Honda
+745,Honda CB Unicorn Dazzler,50000.0,2010,Individual,1st owner,75000,71757.0,12,15,6250.0,520.833,Honda
+746,Honda Livo,45000.0,2018,Individual,1st owner,10000,,4,2,2500.0,208.333,Honda
+747,Honda Aviator,28000.0,2009,Individual,1st owner,29625,59183.0,13,6,2278.846,189.904,Honda
+748,Honda Activa [2000-2015],6000.0,2006,Individual,2nd owner,35000,50267.0,16,7,2187.5,182.292,Honda
+749,Hero Hunk,35000.0,2016,Individual,1st owner,32000,78513.0,6,7,5333.333,444.444,Hero
+750,Honda Activa 125,30000.0,2014,Individual,1st owner,20000,,8,4,2500.0,208.333,Honda
+751,Bajaj Discover 110,15000.0,2007,Individual,1st owner,70000,52710.0,15,14,4666.667,388.889,Bajaj
+752,Hero Xtreme [2013-2014],45000.0,2013,Individual,1st owner,57000,75936.0,9,12,6333.333,527.778,Hero
+753,TVS Victor GLX,18000.0,2005,Individual,1st owner,11000,,17,3,647.059,53.922,TVS
+754,Bajaj Pulsar NS200,85000.0,2018,Individual,1st owner,17500,,4,4,4375.0,364.583,Bajaj
+755,Honda Aviator,30000.0,2014,Individual,1st owner,7000,59183.0,8,2,875.0,72.917,Honda
+756,Bajaj Platina 100,40000.0,2018,Individual,1st owner,17500,,4,4,4375.0,364.583,Bajaj
+757,TVS Sport,34000.0,2018,Individual,1st owner,25000,,4,5,6250.0,520.833,TVS
+758,Hero Honda Passion Plus,8000.0,2003,Individual,1st owner,53500,,19,11,2815.789,234.649,Hero Honda
+759,Bajaj V15,70000.0,2018,Individual,1st owner,15000,67187.0,4,3,3750.0,312.5,Bajaj
+760,Honda Dio,50000.0,2016,Individual,1st owner,8000,,6,2,1333.333,111.111,Honda
+761,Honda Dream Yuga,35000.0,2015,Individual,1st owner,39448,56147.0,7,8,5635.429,469.619,Honda
+762,Hero Honda Splendor Plus,20000.0,2006,Individual,1st owner,75000,,16,15,4687.5,390.625,Hero Honda
+763,Bajaj Pulsar 150,50000.0,2012,Individual,1st owner,28000,,10,6,2800.0,233.333,Bajaj
+764,Bajaj Discover 135,37000.0,2008,Individual,1st owner,62000,,14,13,4428.571,369.048,Bajaj
+765,Honda Livo,69000.0,2018,Individual,1st owner,12000,,4,3,3000.0,250.0,Honda
+766,Hero Honda Splendor NXG,28000.0,2012,Individual,1st owner,49999,,10,10,4999.9,416.658,Hero Honda
+767,Bajaj Discover 125,25000.0,2011,Individual,1st owner,70000,57549.0,11,14,6363.636,530.303,Bajaj
+768,Yamaha FZ V 2.0,60000.0,2018,Individual,1st owner,25000,81508.0,4,5,6250.0,520.833,Yamaha
+769,Yamaha SZ-S,50000.0,2014,Individual,1st owner,20000,72532.0,8,4,2500.0,208.333,Yamaha
+770,Royal Enfield Thunderbird 350,135000.0,2016,Individual,1st owner,4500,,6,1,750.0,62.5,Royal Enfield
+771,Bajaj Discover 125 M,30000.0,2014,Individual,1st owner,45000,49146.0,8,9,5625.0,468.75,Bajaj
+772,Yamaha FZ S [2012-2016],60000.0,2014,Individual,1st owner,68000,79432.0,8,14,8500.0,708.333,Yamaha
+773,Honda Activa [2000-2015],23000.0,2009,Individual,1st owner,95000,50267.0,13,19,7307.692,608.974,Honda
+774,Bajaj Xcd,20000.0,2009,Individual,1st owner,16000,,13,4,1230.769,102.564,Bajaj
+775,Bajaj Avenger Street 160,80000.0,2019,Individual,1st owner,5000,,3,1,1666.667,138.889,Bajaj
+776,Royal Enfield Electra 5 S,99000.0,2006,Individual,2nd owner,36000,,16,8,2250.0,187.5,Royal Enfield
+777,TVS Apache RTR 200 4V,90000.0,2018,Individual,1st owner,70000,,4,14,17500.0,1458.333,TVS
+778,Hero Honda Splendor Plus,20000.0,2005,Individual,1st owner,27370,,17,6,1610.0,134.167,Hero Honda
+779,Hero Glamour 125,50000.0,2017,Individual,1st owner,8600,61600.0,5,2,1720.0,143.333,Hero
+780,TVS Victor GLX,27000.0,2002,Individual,1st owner,49000,,20,10,2450.0,204.167,TVS
+781,Honda Grazia,60000.0,2018,Individual,1st owner,16000,,4,4,4000.0,333.333,Honda
+782,Bajaj Pulsar 150 [2001-2011],12000.0,2007,Individual,2nd owner,100000,,15,20,6666.667,555.556,Bajaj
+783,Hero Xtreme 2014,50000.0,2014,Individual,1st owner,10000,72973.0,8,2,1250.0,104.167,Hero
+784,Hero Pleasure,20000.0,2012,Individual,2nd owner,30000,49600.0,10,6,3000.0,250.0,Hero
+785,Hero Passion XPro,45000.0,2018,Individual,1st owner,7000,58900.0,4,2,1750.0,145.833,Hero
+786,Hero Super Splendor,40000.0,2013,Individual,1st owner,68000,,9,14,7555.556,629.63,Hero
+787,Yamaha FZ S [2012-2016],45000.0,2016,Individual,2nd owner,20000,79432.0,6,4,3333.333,277.778,Yamaha
+788,Honda Activa [2000-2015],25000.0,2015,Individual,1st owner,25000,50267.0,7,5,3571.429,297.619,Honda
+789,Hero Glamour FI,75000.0,2019,Individual,1st owner,8900,71150.0,3,2,2966.667,247.222,Hero
+790,Hero Honda Passion Plus,25000.0,2007,Individual,1st owner,70000,,15,14,4666.667,388.889,Hero Honda
+791,Hero Splendor Plus,25000.0,2006,Individual,2nd owner,40000,,16,8,2500.0,208.333,Hero
+792,Hero Xpulse 200,100000.0,2019,Individual,1st owner,8500,107500.0,3,2,2833.333,236.111,Hero
+793,Honda CB Unicorn 150,30000.0,2012,Individual,1st owner,32000,74295.0,10,7,3200.0,266.667,Honda
+794,Bajaj Discover 135,25000.0,2010,Individual,1st owner,55000,,12,11,4583.333,381.944,Bajaj
+795,Hero Honda Splendor,10000.0,2006,Individual,1st owner,75000,,16,15,4687.5,390.625,Hero Honda
+796,Hero Honda CD Deluxe,25000.0,2008,Individual,3rd owner,65000,,14,13,4642.857,386.905,Hero Honda
+797,Royal Enfield Electra Twinspark,120000.0,2016,Individual,1st owner,345000,,6,69,57500.0,4791.667,Royal Enfield
+798,Honda Dream Neo,42000.0,2014,Individual,1st owner,21000,53415.0,8,5,2625.0,218.75,Honda
+799,Hero Maestro,30000.0,2013,Individual,1st owner,60000,49412.0,9,12,6666.667,555.556,Hero
+800,Honda CBR150 R,77000.0,2014,Individual,1st owner,38000,132513.0,8,8,4750.0,395.833,Honda
+801,Honda CB Unicorn Dazzler,25000.0,2011,Individual,1st owner,40000,71757.0,11,8,3636.364,303.03,Honda
+802,TVS Apache [2006],15000.0,2006,Individual,1st owner,40000,,16,8,2500.0,208.333,TVS
+803,Hero Passion XPro,25000.0,2013,Individual,1st owner,25000,59640.0,9,5,2777.778,231.481,Hero
+804,Honda Activa 5G,50000.0,2018,Individual,1st owner,25000,57957.0,4,5,6250.0,520.833,Honda
+805,Honda Activa i,30000.0,2014,Individual,1st owner,25000,53900.0,8,5,3125.0,260.417,Honda
+806,TVS Apache RTR 200 4V,125000.0,2019,Individual,1st owner,3000,,3,1,1000.0,83.333,TVS
+807,Hero Honda CBZ extreme,35000.0,2011,Individual,1st owner,28000,,11,6,2545.455,212.121,Hero Honda
+808,Suzuki Gixxer [2014-2018],45000.0,2015,Individual,1st owner,40000,78316.0,7,8,5714.286,476.19,Suzuki
+809,Hero Xpulse 200,98000.0,2019,Individual,1st owner,8500,107500.0,3,2,2833.333,236.111,Hero
+810,Bajaj Pulsar 150,75000.0,2017,Individual,1st owner,30000,,5,6,6000.0,500.0,Bajaj
+811,Bajaj Pulsar AS150,55000.0,2017,Individual,2nd owner,20000,80821.0,5,4,4000.0,333.333,Bajaj
+812,Bajaj Platina 100,25000.0,2013,Individual,1st owner,30000,,9,6,3333.333,277.778,Bajaj
+813,Honda CB Twister,70000.0,2014,Individual,1st owner,12566,49150.0,8,3,1570.75,130.896,Honda
+814,Suzuki SlingShot,24000.0,2011,Individual,1st owner,17000,,11,4,1545.455,128.788,Suzuki
+815,TVS Apache RTR 160,70000.0,2018,Individual,1st owner,17000,,4,4,4250.0,354.167,TVS
+816,Bajaj V12,45000.0,2017,Individual,1st owner,35000,58906.0,5,7,7000.0,583.333,Bajaj
+817,Hero Karizma 2014,25000.0,2015,Individual,1st owner,40000,86744.0,7,8,5714.286,476.19,Hero
+818,Yamaha YZF R15 V3,170000.0,2019,Individual,1st owner,1400,146400.0,3,1,466.667,38.889,Yamaha
+819,Yamaha Fascino 110,38000.0,2016,Individual,1st owner,37000,54500.0,6,8,6166.667,513.889,Yamaha
+820,Honda CB Unicorn 160,45000.0,2015,Individual,1st owner,15000,77545.0,7,3,2142.857,178.571,Honda
+821,Yamaha Gladiator,15000.0,2009,Individual,1st owner,46000,,13,10,3538.462,294.872,Yamaha
+822,Hero Honda Glamour,45000.0,2012,Individual,1st owner,75000,,10,15,7500.0,625.0,Hero Honda
+823,Bajaj Discover 100,22000.0,2014,Individual,1st owner,14289,42859.0,8,3,1786.125,148.844,Bajaj
+824,Mahindra Gusto,30000.0,2015,Individual,2nd owner,20000,51185.0,7,4,2857.143,238.095,Mahindra
+825,Royal Enfield Thunderbird 350,100000.0,2012,Individual,1st owner,28000,,10,6,2800.0,233.333,Royal Enfield
+826,Royal Enfield Classic 350,100000.0,2014,Individual,1st owner,19000,,8,4,2375.0,197.917,Royal Enfield
+827,Bajaj Pulsar 150,60000.0,2017,Individual,1st owner,28450,,5,6,5690.0,474.167,Bajaj
+828,Royal Enfield Electra Twinspark,100000.0,2014,Individual,1st owner,31500,,8,7,3937.5,328.125,Royal Enfield
+829,Bajaj Pulsar 150,40000.0,2016,Individual,1st owner,28000,,6,6,4666.667,388.889,Bajaj
+830,Bajaj Pulsar 150,21000.0,2007,Individual,1st owner,100000,,15,20,6666.667,555.556,Bajaj
+831,Hero HF Deluxe,40000.0,2018,Individual,1st owner,16000,,4,4,4000.0,333.333,Hero
+832,Honda Activa [2000-2015],25000.0,2007,Individual,1st owner,17860,50267.0,15,4,1190.667,99.222,Honda
+833,Yamaha FZ S [2012-2016],45000.0,2015,Individual,1st owner,24000,79432.0,7,5,3428.571,285.714,Yamaha
+834,Bajaj Avenger Cruise 220,75000.0,2016,Individual,1st owner,10950,,6,3,1825.0,152.083,Bajaj
+835,Honda Dio,45000.0,2017,Individual,1st owner,35850,,5,8,7170.0,597.5,Honda
+836,Honda Activa i [2016-2017],35000.0,2016,Individual,1st owner,29000,53436.0,6,6,4833.333,402.778,Honda
+837,Royal Enfield Bullet 350 [2007-2011],60000.0,2001,Individual,2nd owner,4000,,21,1,190.476,15.873,Royal Enfield
+838,Yamaha FZ V 2.0,60000.0,2016,Individual,1st owner,45420,81508.0,6,10,7570.0,630.833,Yamaha
+839,Royal Enfield Classic 350,130000.0,2018,Individual,2nd owner,35000,,4,7,8750.0,729.167,Royal Enfield
+840,Honda CB Shine SP,42000.0,2017,Individual,1st owner,19800,64750.0,5,4,3960.0,330.0,Honda
+841,Bajaj V15,76000.0,2018,Individual,1st owner,23000,65626.0,4,5,5750.0,479.167,Bajaj
+842,Hero CBZ,40000.0,2014,Individual,1st owner,35000,,8,7,4375.0,364.583,Hero
+843,Hero Splendor Plus,65000.0,2018,Individual,1st owner,7500,,4,2,1875.0,156.25,Hero
+844,Bajaj Discover 100 T,20000.0,2013,Individual,1st owner,20000,47032.0,9,4,2222.222,185.185,Bajaj
+845,Honda CB Hornet 160R,75000.0,2016,Individual,1st owner,72000,92661.0,6,15,12000.0,1000.0,Honda
+846,Honda CB Hornet 160R,70000.0,2018,Individual,1st owner,7000,92661.0,4,2,1750.0,145.833,Honda
+847,TVS Apache RTR 160 4V,105000.0,2019,Individual,1st owner,6000,,3,2,2000.0,166.667,TVS
+848,Honda CB Shine SP,50000.0,2017,Individual,1st owner,34300,62317.0,5,7,6860.0,571.667,Honda
+849,Royal Enfield Classic 350,120000.0,2017,Individual,1st owner,7199,,5,2,1439.8,119.983,Royal Enfield
+850,Bajaj Pulsar 180,25000.0,2011,Individual,1st owner,43000,85011.0,11,9,3909.091,325.758,Bajaj
+851,TVS XL 100,30000.0,2017,Individual,1st owner,8000,30490.0,5,2,1600.0,133.333,TVS
+852,Hero Super Splendor,50000.0,2017,Individual,1st owner,9999,,5,2,1999.8,166.65,Hero
+853,Hero Honda CBZ extreme,25000.0,2007,Individual,1st owner,80000,,15,16,5333.333,444.444,Hero Honda
+854,Bajaj Pulsar 180,50000.0,2014,Individual,1st owner,30000,85011.0,8,6,3750.0,312.5,Bajaj
+855,Bajaj Discover 150,35000.0,2015,Individual,1st owner,12000,54299.0,7,3,1714.286,142.857,Bajaj
+856,Bajaj Pulsar 180,30000.0,2009,Individual,1st owner,17500,85011.0,13,4,1346.154,112.18,Bajaj
+857,Honda Shine,37000.0,2016,Individual,1st owner,45000,,6,9,7500.0,625.0,Honda
+858,Honda CB Unicorn 150,42000.0,2013,Individual,1st owner,38000,74295.0,9,8,4222.222,351.852,Honda
+859,Royal Enfield Himalayan,119000.0,2016,Individual,1st owner,19800,,6,4,3300.0,275.0,Royal Enfield
+860,Kawasaki Ninja 650 [2018-2019],300000.0,2011,Individual,1st owner,12000,589000.0,11,3,1090.909,90.909,Kawasaki
+861,Royal Enfield Classic 350,130000.0,1993,Individual,2nd owner,10000,,29,2,344.828,28.736,Royal Enfield
+862,Hero Honda Passion Plus,22000.0,2008,Individual,2nd owner,85000,,14,17,6071.429,505.952,Hero Honda
+863,Hero Honda Splendor Plus,15000.0,2007,Individual,1st owner,70000,,15,14,4666.667,388.889,Hero Honda
+864,Benelli TNT 25,160000.0,2017,Individual,1st owner,2009,170994.0,5,1,401.8,33.483,Benelli
+865,Royal Enfield Thunderbird 500X,185000.0,2018,Individual,1st owner,1500,198605.0,4,1,375.0,31.25,Royal Enfield
+866,Royal Enfield Continental GT [2013 - 2018],110000.0,2014,Individual,1st owner,12077,208902.0,8,3,1509.625,125.802,Royal Enfield
+867,KTM RC 200,150000.0,2017,Individual,1st owner,20000,,5,4,4000.0,333.333,KTM
+868,Royal Enfield Bullet 350 [2007-2011],150000.0,1995,Individual,3rd owner,20000,,27,4,740.741,61.728,Royal Enfield
+869,Bajaj Pulsar 220F,45000.0,2011,Individual,1st owner,40000,,11,8,3636.364,303.03,Bajaj
+870,Bajaj Avenger Street 220,75000.0,2018,Individual,1st owner,12000,95955.0,4,3,3000.0,250.0,Bajaj
+871,Honda Activa 125 [2016-2017],50000.0,2017,Individual,1st owner,27000,61545.0,5,6,5400.0,450.0,Honda
+872,Honda Shine,30000.0,2013,Individual,1st owner,93000,,9,19,10333.333,861.111,Honda
+873,Bajaj Discover 150F,30000.0,2015,Individual,1st owner,12000,64071.0,7,3,1714.286,142.857,Bajaj
+874,Bajaj Pulsar 150 [2001-2011],22000.0,2011,Individual,1st owner,36000,,11,8,3272.727,272.727,Bajaj
+875,Hero Karizma ZMR,75000.0,2015,Individual,1st owner,11000,108000.0,7,3,1571.429,130.952,Hero
+876,Honda Dream Yuga,45000.0,2017,Individual,1st owner,26000,56147.0,5,6,5200.0,433.333,Honda
+877,Hero Glamour 125,35000.0,2014,Individual,1st owner,450000,61600.0,8,90,56250.0,4687.5,Hero
+878,Honda Activa [2000-2015],35000.0,2012,Individual,1st owner,29000,50267.0,10,6,2900.0,241.667,Honda
+879,Bajaj CT 100,25000.0,2017,Individual,1st owner,45000,,5,9,9000.0,750.0,Bajaj
+880,Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,13000,92210.0,5,3,2600.0,216.667,Honda
+881,Hero CD Dawn,10000.0,2005,Individual,1st owner,48000,,17,10,2823.529,235.294,Hero
+882,Royal Enfield Classic Gunmetal Grey,180000.0,2018,Individual,1st owner,5814,148114.0,4,2,1453.5,121.125,Royal Enfield
+883,Bajaj Discover 100,24000.0,2014,Individual,1st owner,31000,42859.0,8,7,3875.0,322.917,Bajaj
+884,Honda Shine,42000.0,2017,Individual,1st owner,25000,,5,5,5000.0,416.667,Honda
+885,TVS Max DLX,26000.0,2002,Individual,2nd owner,28000,,20,6,1400.0,116.667,TVS
+886,Honda Dio,60000.0,2018,Individual,1st owner,11000,,4,3,2750.0,229.167,Honda
+887,Bajaj Pulsar 180,72000.0,2017,Dealer,1st owner,7850,85011.0,5,2,1570.0,130.833,Bajaj
+888,Royal Enfield Thunderbird 350,120000.0,2015,Individual,1st owner,10000,,7,2,1428.571,119.048,Royal Enfield
+889,Royal Enfield Thunderbird 350,59000.0,2005,Individual,2nd owner,40000,,17,8,2352.941,196.078,Royal Enfield
+890,Royal Enfield Classic Chrome,185000.0,2015,Individual,2nd owner,5000,189313.0,7,1,714.286,59.524,Royal Enfield
+891,Royal Enfield Classic Gunmetal Grey,140000.0,2018,Individual,1st owner,14000,148114.0,4,3,3500.0,291.667,Royal Enfield
+892,KTM 390 Duke,205000.0,2018,Individual,1st owner,7500,,4,2,1875.0,156.25,KTM
+893,Hero Pleasure [2005-2015],30000.0,2013,Individual,1st owner,25000,46779.0,9,5,2777.778,231.481,Hero
+894,TVS Victor,18000.0,2004,Individual,1st owner,46700,54852.0,18,10,2594.444,216.204,TVS
+895,Bajaj Pulsar 150,35000.0,2011,Individual,1st owner,12000,,11,3,1090.909,90.909,Bajaj
+896,KTM RC 200,185000.0,2019,Individual,1st owner,6000,,3,2,2000.0,166.667,KTM
+897,Kawasaki Ninja 300,300000.0,2016,Individual,1st owner,9800,360000.0,6,2,1633.333,136.111,Kawasaki
+898,Honda Dream Yuga,30000.0,2015,Individual,2nd owner,46070,56147.0,7,10,6581.429,548.452,Honda
+899,Bajaj Pulsar 150,35000.0,2009,Individual,1st owner,14500,,13,3,1115.385,92.949,Bajaj
+900,Bajaj Pulsar 150 [2001-2011],35000.0,2008,Individual,1st owner,70000,,14,14,5000.0,416.667,Bajaj
+901,Hero Honda Passion Plus,25000.0,2008,Dealer,2nd owner,100000,,14,20,7142.857,595.238,Hero Honda
+902,Yamaha YZF R15 [2011-2018],80000.0,2013,Dealer,1st owner,30000,118997.0,9,6,3333.333,277.778,Yamaha
+903,Hero Honda Splendor Plus,20000.0,2004,Individual,2nd owner,127000,,18,26,7055.556,587.963,Hero Honda
+904,Hero Karizma ZMR,43000.0,2012,Individual,2nd owner,63000,108000.0,10,13,6300.0,525.0,Hero
+905,Hero Honda Splendor Plus,20000.0,2010,Individual,2nd owner,30000,,12,6,2500.0,208.333,Hero Honda
+906,Yo Style,20000.0,2011,Individual,1st owner,10000,37675.0,11,2,909.091,75.758,Yo
+907,Hero Splendor iSmart,40000.0,2015,Individual,1st owner,10000,52271.0,7,2,1428.571,119.048,Hero
+908,Hero Super Splendor,30000.0,2011,Individual,1st owner,89000,,11,18,8090.909,674.242,Hero
+909,Bajaj Discover 100,21000.0,2009,Individual,1st owner,50000,42859.0,13,10,3846.154,320.513,Bajaj
+910,Yamaha Fazer [2009-2016],35000.0,2011,Individual,1st owner,15500,84751.0,11,4,1409.091,117.424,Yamaha
+911,Bajaj Discover 125,23000.0,2011,Individual,1st owner,66000,57549.0,11,14,6000.0,500.0,Bajaj
+912,Hero Super Splendor,40000.0,2017,Individual,2nd owner,80000,,5,16,16000.0,1333.333,Hero
+913,Honda Shine,40000.0,2011,Individual,1st owner,8600,,11,2,781.818,65.151,Honda
+914,Bajaj Discover 125 M,45000.0,2014,Individual,1st owner,40000,47186.0,8,8,5000.0,416.667,Bajaj
+915,Bajaj Avenger Street 150 [2018],60000.0,2016,Individual,1st owner,25000,80435.0,6,5,4166.667,347.222,Bajaj
+916,Yamaha Fazer [2009-2016],40000.0,2013,Individual,1st owner,34500,84751.0,9,7,3833.333,319.444,Yamaha
+917,Hero Passion X Pro [2016-2017],42000.0,2016,Individual,1st owner,15500,59095.0,6,4,2583.333,215.278,Hero
+918,Honda Activa [2000-2015],18000.0,2011,Individual,1st owner,28000,50267.0,11,6,2545.455,212.121,Honda
+919,TVS Star City,15000.0,2006,Individual,1st owner,40000,46575.0,16,8,2500.0,208.333,TVS
+920,Hero Honda Hunk,45000.0,2013,Individual,1st owner,40000,,9,8,4444.444,370.37,Hero Honda
+921,TVS Star City,25000.0,2016,Individual,1st owner,50000,47108.0,6,10,8333.333,694.444,TVS
+922,Bajaj Pulsar 150,70000.0,2017,Individual,1st owner,24000,,5,5,4800.0,400.0,Bajaj
+923,Bajaj Discover 100,23000.0,2012,Individual,1st owner,50000,42859.0,10,10,5000.0,416.667,Bajaj
+924,TVS Victor,10000.0,2005,Individual,1st owner,55000,54852.0,17,11,3235.294,269.608,TVS
+925,Hero Honda Splendor Plus,25000.0,2012,Individual,1st owner,70000,,10,14,7000.0,583.333,Hero Honda
+926,Honda Aviator,25000.0,2012,Individual,2nd owner,12000,59183.0,10,3,1200.0,100.0,Honda
+927,Bajaj Pulsar 180,50000.0,2010,Individual,1st owner,70000,85011.0,12,14,5833.333,486.111,Bajaj
+928,Bajaj Avenger [2015],60000.0,2015,Individual,2nd owner,16000,75502.0,7,4,2285.714,190.476,Bajaj
+929,Hero CD Dawn,35000.0,2014,Individual,1st owner,38000,,8,8,4750.0,395.833,Hero
+930,Hero Maestro,50000.0,2016,Individual,1st owner,100000,49412.0,6,20,16666.667,1388.889,Hero
+931,Honda CB Shine SP,50000.0,2016,Individual,1st owner,45000,64750.0,6,9,7500.0,625.0,Honda
+932,Hero Honda CD Deluxe,25500.0,2012,Individual,1st owner,28990,,10,6,2899.0,241.583,Hero Honda
+933,Hero Honda Hunk,35000.0,2010,Individual,1st owner,13000,,12,3,1083.333,90.278,Hero Honda
+934,Hero Honda CD Deluxe,20000.0,2005,Individual,1st owner,15000,,17,3,882.353,73.529,Hero Honda
+935,Honda Activa 3G,40000.0,2016,Individual,1st owner,60000,54605.0,6,12,10000.0,833.333,Honda
+936,Bajaj Pulsar 135 LS,45000.0,2017,Individual,1st owner,22000,64589.0,5,5,4400.0,366.667,Bajaj
+937,Bajaj Pulsar 150 [2001-2011],30000.0,2008,Individual,1st owner,19500,,14,4,1392.857,116.071,Bajaj
+938,Hero Pleasure,30000.0,2013,Individual,1st owner,25000,49600.0,9,5,2777.778,231.481,Hero
+939,Hero Honda CBZ extreme,30000.0,2011,Individual,3rd owner,70000,,11,14,6363.636,530.303,Hero Honda
+940,Bajaj Pulsar 150,40000.0,2014,Individual,2nd owner,65000,,8,13,8125.0,677.083,Bajaj
+941,Honda CB Twister,25000.0,2012,Individual,1st owner,86000,53857.0,10,18,8600.0,716.667,Honda
+942,Honda Livo,45000.0,2017,Individual,1st owner,30000,,5,6,6000.0,500.0,Honda
+943,Bajaj Pulsar AS200,65000.0,2015,Individual,1st owner,33000,92074.0,7,7,4714.286,392.857,Bajaj
+944,Honda Activa 3G,40000.0,2015,Individual,1st owner,36000,54605.0,7,8,5142.857,428.571,Honda
+945,Hero Honda Hunk,40000.0,2010,Individual,1st owner,41000,,12,9,3416.667,284.722,Hero Honda
+946,Honda CB Hornet 160R,70000.0,2017,Individual,1st owner,28000,83340.0,5,6,5600.0,466.667,Honda
+947,Hero HF Deluxe,35000.0,2018,Individual,1st owner,15000,,4,3,3750.0,312.5,Hero
+948,Hero Splendor PRO,35000.0,2015,Individual,1st owner,35280,51994.0,7,8,5040.0,420.0,Hero
+949,Bajaj Boxer,15000.0,2004,Individual,1st owner,18000,,18,4,1000.0,83.333,Bajaj
+950,Royal Enfield Electra 5 S,99000.0,2012,Individual,1st owner,28000,,10,6,2800.0,233.333,Royal Enfield
+951,Royal Enfield Electra 5 S,90000.0,2012,Individual,1st owner,40000,,10,8,4000.0,333.333,Royal Enfield
+952,Hero Honda Hunk,20000.0,2010,Individual,1st owner,17000,,12,4,1416.667,118.056,Hero Honda
+953,Hero Ignitor,36000.0,2016,Individual,1st owner,23000,65599.0,6,5,3833.333,319.444,Hero
+954,Bajaj Discover 100 M,32000.0,2014,Individual,1st owner,30000,44756.0,8,6,3750.0,312.5,Bajaj
+955,Honda Activa 3G,50000.0,2016,Individual,1st owner,6000,54605.0,6,2,1000.0,83.333,Honda
+956,Bajaj Pulsar 135 LS,50000.0,2015,Individual,1st owner,48000,64589.0,7,10,6857.143,571.429,Bajaj
+957,Bajaj Pulsar 220 DTS-i,60000.0,2014,Individual,1st owner,16000,,8,4,2000.0,166.667,Bajaj
+958,Hero Honda CBZ extreme,40000.0,2009,Individual,1st owner,50000,,13,10,3846.154,320.513,Hero Honda
+959,Hero Honda CBZ extreme,35000.0,2012,Individual,1st owner,60000,,10,12,6000.0,500.0,Hero Honda
+960,Royal Enfield Thunder 500,175000.0,2018,Individual,1st owner,3000,190000.0,4,1,750.0,62.5,Royal Enfield
+961,UM Renegade Mojave,170000.0,2019,Individual,1st owner,1400,182000.0,3,1,466.667,38.889,UM
+962,KTM RC200,165000.0,2019,Individual,1st owner,4000,178000.0,3,1,1333.333,111.111,KTM
+963,Bajaj Dominar 400,145000.0,2019,Individual,1st owner,1200,160000.0,3,1,400.0,33.333,Bajaj
+964,Royal Enfield Classic 350,135000.0,2019,Individual,1st owner,4100,147000.0,3,1,1366.667,113.889,Royal Enfield
+965,KTM RC390,135000.0,2017,Individual,1st owner,21700,237000.0,5,5,4340.0,361.667,KTM
+966,Hyosung GT250R,135000.0,2016,Individual,2nd owner,16500,345000.0,6,4,2750.0,229.167,Hyosung
+967,Royal Enfield Thunder 350,125000.0,2015,Individual,1st owner,15000,150000.0,7,3,2142.857,178.571,Royal Enfield
+968,Royal Enfield Thunder 350,120000.0,2018,Individual,1st owner,18000,150000.0,4,4,4500.0,375.0,Royal Enfield
+969,Royal Enfield Classic 350,120000.0,2019,Individual,1st owner,11000,147000.0,3,3,3666.667,305.556,Royal Enfield
+970,KTM RC200,120000.0,2018,Individual,1st owner,6000,178000.0,4,2,1500.0,125.0,KTM
+971,Royal Enfield Thunder 350,115000.0,2018,Individual,1st owner,8700,150000.0,4,2,2175.0,181.25,Royal Enfield
+972,KTM 390 Duke ,115000.0,2016,Individual,1st owner,7000,240000.0,6,2,1166.667,97.222,KTM
+973,Mahindra Mojo XT300,115000.0,2018,Individual,1st owner,35000,140000.0,4,7,8750.0,729.167,Mahindra
+974,Royal Enfield Classic 350,115000.0,2017,Individual,1st owner,17000,147000.0,5,4,3400.0,283.333,Royal Enfield
+975,Royal Enfield Classic 350,111000.0,2017,Individual,1st owner,17500,147000.0,5,4,3500.0,291.667,Royal Enfield
+976,Royal Enfield Classic 350,110000.0,2015,Individual,1st owner,33000,147000.0,7,7,4714.286,392.857,Royal Enfield
+977,Royal Enfield Thunder 500,110000.0,2017,Individual,1st owner,14000,190000.0,5,3,2800.0,233.333,Royal Enfield
+978,Royal Enfield Classic 350,110000.0,2017,Individual,1st owner,26000,147000.0,5,6,5200.0,433.333,Royal Enfield
+979,Royal Enfield Thunder 500,105000.0,2015,Individual,1st owner,5400,190000.0,7,2,771.429,64.286,Royal Enfield
+980,Bajaj Pulsar RS200,105000.0,2018,Individual,1st owner,5700,126000.0,4,2,1425.0,118.75,Bajaj
+981,Royal Enfield Thunder 350,105000.0,2013,Individual,1st owner,6900,150000.0,9,2,766.667,63.889,Royal Enfield
+982,Royal Enfield Bullet 350,105000.0,2018,Individual,1st owner,6000,117000.0,4,2,1500.0,125.0,Royal Enfield
+983,Royal Enfield Classic 350,100000.0,2015,Individual,1st owner,46500,147000.0,7,10,6642.857,553.571,Royal Enfield
+984,Royal Enfield Classic 500,95000.0,2014,Individual,1st owner,11500,175000.0,8,3,1437.5,119.792,Royal Enfield
+985,Royal Enfield Classic 500,90000.0,2011,Individual,1st owner,40000,175000.0,11,8,3636.364,303.03,Royal Enfield
+986,Bajaj Avenger 220,90000.0,2019,Individual,1st owner,1300,95000.0,3,1,433.333,36.111,Bajaj
+987,Bajaj Avenger 150,75000.0,2018,Individual,1st owner,7000,80000.0,4,2,1750.0,145.833,Bajaj
+988,Honda CB Hornet 160R,80000.0,2019,Individual,1st owner,3000,87000.0,3,1,1000.0,83.333,Honda
+989,Yamaha FZ S V 2.0,78000.0,2019,Individual,1st owner,5000,84000.0,3,1,1666.667,138.889,Yamaha
+990,Honda CB Hornet 160R,75000.0,2019,Individual,1st owner,11000,87000.0,3,3,3666.667,305.556,Honda
+991,Yamaha FZ 16,75000.0,2017,Individual,1st owner,18000,82000.0,5,4,3600.0,300.0,Yamaha
+992,Bajaj Avenger 220,75000.0,2019,Individual,1st owner,3500,95000.0,3,1,1166.667,97.222,Bajaj
+993,Bajaj Avenger 220,72000.0,2018,Individual,1st owner,500,95000.0,4,1,125.0,10.417,Bajaj
+994,TVS Apache RTR 160,65000.0,2019,Individual,1st owner,11800,81000.0,3,3,3933.333,327.778,TVS
+995,Bajaj Pulsar 150,65000.0,2017,Individual,1st owner,5000,74000.0,5,1,1000.0,83.333,Bajaj
+996,Honda CBR 150,65000.0,2016,Individual,1st owner,23500,120000.0,6,5,3916.667,326.389,Honda
+997,Hero Extreme,65000.0,2015,Individual,1st owner,16000,78700.0,7,4,2285.714,190.476,Hero
+998,Honda CB Hornet 160R,60000.0,2018,Individual,1st owner,15000,87000.0,4,3,3750.0,312.5,Honda
+999,Bajaj Avenger 220 dtsi,60000.0,2017,Individual,1st owner,16600,95000.0,5,4,3320.0,276.667,Bajaj
+1000,Honda CBR 150,60000.0,2015,Individual,1st owner,32000,120000.0,7,7,4571.429,380.952,Honda
+1001,Bajaj Avenger 150 street,60000.0,2018,Individual,1st owner,20000,80000.0,4,4,5000.0,416.667,Bajaj
+1002,Yamaha FZ  v 2.0,60000.0,2017,Individual,1st owner,29000,84000.0,5,6,5800.0,483.333,Yamaha
+1003,Yamaha FZ  v 2.0,60000.0,2018,Individual,1st owner,25000,84000.0,4,5,6250.0,520.833,Yamaha
+1004,Bajaj Pulsar  NS 200,60000.0,2016,Individual,1st owner,25000,99000.0,6,5,4166.667,347.222,Bajaj
+1005,TVS Apache RTR 160,60000.0,2014,Individual,1st owner,19000,81000.0,8,4,2375.0,197.917,TVS
+1006,Hero Extreme,55000.0,2016,Individual,1st owner,15000,78700.0,6,3,2500.0,208.333,Hero
+1007,Yamaha FZ S V 2.0,55000.0,2017,Individual,1st owner,58000,84000.0,5,12,11600.0,966.667,Yamaha
+1008,Bajaj Pulsar 220 F,52000.0,2012,Individual,1st owner,45000,94000.0,10,9,4500.0,375.0,Bajaj
+1009,Bajaj Pulsar 220 F,51000.0,2018,Individual,1st owner,24000,94000.0,4,5,6000.0,500.0,Bajaj
+1010,TVS Apache RTR 180,50000.0,2013,Individual,1st owner,6000,82600.0,9,2,666.667,55.556,TVS
+1011,Hero Passion X pro,50000.0,2018,Individual,1st owner,31000,55000.0,4,7,7750.0,645.833,Hero
+1012,Bajaj Pulsar NS 200,50000.0,2014,Individual,1st owner,13000,99000.0,8,3,1625.0,135.417,Bajaj
+1013,Bajaj Pulsar NS 200,50000.0,2015,Individual,1st owner,45000,99000.0,7,9,6428.571,535.714,Bajaj
+1014,Yamaha Fazer ,50000.0,2016,Individual,1st owner,8000,88000.0,6,2,1333.333,111.111,Yamaha
+1015,Honda Activa 4G,48000.0,2019,Individual,1st owner,4300,51000.0,3,1,1433.333,119.444,Honda
+1016,TVS Sport ,48000.0,2019,Individual,1st owner,15000,52000.0,3,3,5000.0,416.667,TVS
+1017,Yamaha FZ S V 2.0,48000.0,2017,Individual,1st owner,23000,84000.0,5,5,4600.0,383.333,Yamaha
+1018,Honda Dream Yuga ,48000.0,2019,Individual,1st owner,8600,54000.0,3,2,2866.667,238.889,Honda
+1019,Honda Activa 4G,45000.0,2019,Individual,1st owner,4000,51000.0,3,1,1333.333,111.111,Honda
+1020,Bajaj Avenger Street 220,45000.0,2013,Individual,1st owner,24000,95000.0,9,5,2666.667,222.222,Bajaj
+1021,TVS Apache RTR 180,45000.0,2016,Individual,1st owner,23000,82600.0,6,5,3833.333,319.444,TVS
+1022,Bajaj Pulsar NS 200,45000.0,2014,Individual,1st owner,14500,99000.0,8,3,1812.5,151.042,Bajaj
+1023,Bajaj Avenger 220 dtsi,45000.0,2012,Individual,1st owner,27000,95000.0,10,6,2700.0,225.0,Bajaj
+1024,Hero Splender iSmart,45000.0,2018,Individual,1st owner,14000,54000.0,4,3,3500.0,291.667,Hero
+1025,Activa 3g,45000.0,2018,Individual,1st owner,500,54000.0,4,1,125.0,10.417,Activa
+1026,Hero Passion Pro,45000.0,2018,Individual,1st owner,1000,55000.0,4,1,250.0,20.833,Hero
+1027,TVS Apache RTR 160,42000.0,2016,Individual,1st owner,42000,81000.0,6,9,7000.0,583.333,TVS
+1028,Honda CB Trigger,42000.0,2015,Individual,1st owner,12000,73000.0,7,3,1714.286,142.857,Honda
+1029,Hero Splender iSmart,40000.0,2017,Individual,1st owner,14000,54000.0,5,3,2800.0,233.333,Hero
+1030,Yamaha FZ S ,40000.0,2014,Individual,1st owner,5500,83000.0,8,2,687.5,57.292,Yamaha
+1031,Hero Passion Pro,40000.0,2017,Individual,1st owner,6700,55000.0,5,2,1340.0,111.667,Hero
+1032,Bajaj Pulsar 135 LS,40000.0,2016,Individual,1st owner,13700,64000.0,6,3,2283.333,190.278,Bajaj
+1033,Activa 4g,40000.0,2019,Individual,1st owner,1300,51000.0,3,1,433.333,36.111,Activa
+1034,Honda CB Unicorn,38000.0,2017,Individual,1st owner,38600,72000.0,5,8,7720.0,643.333,Honda
+1035,Hero Honda CBZ extreme,38000.0,2013,Individual,1st owner,75000,78700.0,9,15,8333.333,694.444,Hero Honda
+1036,Honda Karizma,35000.0,2013,Individual,1st owner,30000,105000.0,9,6,3333.333,277.778,Honda
+1037,Honda Activa 125,35000.0,2018,Individual,1st owner,24000,57000.0,4,5,6000.0,500.0,Honda
+1038,TVS Jupyter,35000.0,2016,Individual,1st owner,19000,52000.0,6,4,3166.667,263.889,TVS
+1039,Honda Karizma,31000.0,2012,Individual,1st owner,213000,105000.0,10,43,21300.0,1775.0,Honda
+1040,Hero Honda Passion Pro,30000.0,2014,Individual,1st owner,60000,51000.0,8,12,7500.0,625.0,Hero Honda
+1041,Hero Splender Plus,30000.0,2018,Individual,1st owner,50000,48000.0,4,10,12500.0,1041.667,Hero
+1042,Honda CB Shine,30000.0,2015,Individual,1st owner,30000,58000.0,7,6,4285.714,357.143,Honda
+1043,Bajaj Discover 100,27000.0,2015,Individual,1st owner,21000,47000.0,7,5,3000.0,250.0,Bajaj
+1044,Bajaj Pulsar 150,25000.0,2010,Individual,2nd owner,26000,75000.0,12,6,2166.667,180.556,Bajaj
+1045,Suzuki Access 125,25000.0,2010,Individual,1st owner,1900,58000.0,12,1,158.333,13.194,Suzuki
+1046,TVS Wego,25000.0,2012,Individual,1st owner,22000,52000.0,10,5,2200.0,183.333,TVS
+1047,Honda CB twister,25000.0,2015,Individual,1st owner,32000,51000.0,7,7,4571.429,380.952,Honda
+1048,Hero Glamour,25000.0,2015,Individual,1st owner,18000,57000.0,7,4,2571.429,214.286,Hero
+1049,Hero Super Splendor,20000.0,2007,Individual,1st owner,55000,57000.0,15,11,3666.667,305.556,Hero
+1050,Bajaj Pulsar 150,20000.0,2010,Individual,1st owner,60000,75000.0,12,12,5000.0,416.667,Bajaj
+1051,Bajaj Discover 125,20000.0,2014,Individual,2nd owner,25000,57000.0,8,5,3125.0,260.417,Bajaj
+1052,Hero Hunk,20000.0,2009,Individual,2nd owner,49000,75000.0,13,10,3769.231,314.103,Hero
+1053,Hero  Ignitor Disc,20000.0,2015,Individual,2nd owner,24000,65000.0,7,5,3428.571,285.714,Hero
+1054,Hero  CBZ Xtreme,20000.0,2010,Individual,1st owner,50000,78700.0,12,10,4166.667,347.222,Hero
+1055,Bajaj  ct 100,18000.0,2017,Individual,1st owner,35000,32000.0,5,7,7000.0,583.333,Bajaj
+1056,Activa 3g,17000.0,2010,Individual,1st owner,500000,52000.0,12,100,41666.667,3472.222,Activa
+1057,Honda CB twister,16000.0,2012,Individual,1st owner,33000,51000.0,10,7,3300.0,275.0,Honda
+1058,Bajaj Discover 125,15000.0,2013,Individual,2nd owner,35000,57000.0,9,7,3888.889,324.074,Bajaj
+1059,Honda CB Shine,12000.0,2009,Individual,1st owner,53000,58000.0,13,11,4076.923,339.744,Honda
+1060,Bajaj Pulsar 150,10000.0,2008,Individual,1st owner,92233,75000.0,14,19,6588.071,549.006,Bajaj
