@@ -1,4 +1,8 @@
 {
     "python.defaultInterpreterPath": "/home/gustavo/.pyenv/shims/python3",
 
+    "python.analysis.diagnosticSeverityOverrides": {
+       "reportMissingImports": "none" 
+    }
+
 }
