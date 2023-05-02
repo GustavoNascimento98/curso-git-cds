@@ -163,5 +163,5 @@ cython_debug/
 # ignore all the files with the .xlsx extension
 *.xlsx
 
-# ignore
-.vscode
+# ignore .vscode directory
+.vscode/
