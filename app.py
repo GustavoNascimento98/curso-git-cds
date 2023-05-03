@@ -37,6 +37,9 @@ def create_dataframe_section(df):
 
 def main():
     df_raw = load_data()
+
+    create_dataframe_section(df_raw)
+    
     st.dataframe(df_raw)
 
 if __name__ == '__main__':
